@@ -1,4 +1,4 @@
-# 1000-blackhat-tools
+
 git clone https://github.com/glv2/bruteforce-wallet
 git clone https://github.com/x90skysn3k/brutespray
 git clone https://github.com/1N3//BruteXSS
