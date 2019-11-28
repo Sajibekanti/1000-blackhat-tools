@@ -1,922 +1,922 @@
-
-git clone https://github.com/glv2/bruteforce-wallet
-git clone https://github.com/x90skysn3k/brutespray
-git clone https://github.com/1N3//BruteXSS
-git clone https://github.com/enjoiz/BSQLinjector
-git clone https://github.com/conorpp/btproxy
-git clone https://github.com/simsong/bulk_extractor
-git clone https://github.com/aanarchyy/bully
-git clone https://github.com/buttinsky/buttinsky
-git clone https://github.com/Konloch/bytecode-viewer
-git clone https://github.com/auraltension/c5scan
-git clone https://github.com/securestate/camscan
-git clone https://github.com/fnk0c/cangibrina
-git clone https://github.com/deibit/cansina
-git clone https://github.com/eik00d/CANToolz
-git clone https://github.com/packetassailant/catnthecanary
-git clone https://github.com/ring0lab/catphish
-git clone https://github.com/Zapotek/cdpsnarf
-git clone https://github.com/nccgroup/CECster
-git clone https://github.com/0xPoly/Centry
-git clone https://github.com/emsec/ChameleonMini
-git clone https://github.com/ztgrace/changeme
-git clone https://github.com/TarlogicSecurity/Chankro
-git clone https://github.com/moxie0/chapcrack
-git clone https://github.com/slimm609/checksec.sh
-git clone https://github.com/bl4de/Cheetah
-git clone https://github.com/0xbc/chiasm-shell
-git clone https://github.com/chipsec/chipsec
-git clone https://github.com/jpillora/chisel
-git clone https://github.com/MITRECND/chopshop
-git clone https://github.com/CENSUS/choronzon
-git clone http://osandamalith.github.io/ChromeFreak/
-git clone https://github.com/earthquake/chw00t
-git clone https://github.com/epsylon/cintruder
-git clone https://github.com/jvehent/cipherscan
-git clone https://github.com/OpenSecurityResearch/ciphertest
-git clone https://github.com/frohoff/ciphr
-git clone https://github.com/nccgroup/cisco-snmp-enumeration
-git clone https://github.com/nccgroup/cisco-snmp-slap
-git clone https://github.com/madrisan/cisco7crack
-git clone https://github.com/madrisan/cisco7crack
-git clone https://github.com/enddo/CJExploiter
-git clone https://github.com/raffaele-forte/climber
-git clone https://github.com/trycatchhcf/cloakify
-git clone https://github.com/m0rtem/CloudFail
-git clone https://github.com/mandatoryprogrammer/cloudflare_enum
-git clone https://github.com/eudemonics/cloudget
-git clone https://github.com/hatRiot/clusterd
-git clone https://github.com/EgeBalci/Cminer/
-git clone https://github.com/Tuhinshubhra/CMSeeK
-git clone https://github.com/nahamsec/CMSFuzz
-git clone https://github.com/packetassailant/cnamulator
-git clone https://github.com/bseb/cntlm
-git clone https://github.com/Intrinsec/comission
-git clone https://github.com/stasinopoulos/commix
-git clone https://github.com/RUB-NDS/CORStest
-git clone https://github.com/D4Vinci/Cr3dOv3r
-git clone https://github.com/CoalfireLabs/crackHOR
-git clone https://github.com/mikeryan/crackle/
-git clone https://github.com/byt3bl33d3r/CrackMapExec
-git clone https://github.com/vnik5287/Crackq
-git clone https://github.com/averagesecurityguy/crack
-git clone https://github.com/Ganapati/Crawlic
-git clone https://github.com/codepr/creak
-git clone https://github.com/oblique/create_ap
-git clone https://github.com/lightos/credmap
-git clone https://github.com/DanMcInerney/creds.py
-git clone http://github.com/ilektrojohn/creepy.git
-git clone https://github.com/SpiderLabs/cribdrag
-git clone https://github.com/rudSarkar/crlf-injector
-git clone https://github.com/galkan/crowbar
-git clone https://github.com/crozono/crozono-free
-git clone https://github.com/chokepoint/CryptHook
-git clone https://github.com/chamli/CyberCrowl
-git clone https://github.com/medbenali/CyberScan
-git clone https://github.com/shawarkhanethicalhacker/D-TECT
-git clone https://github.com/Ekultek/Dagon
-git clone https://github.com/504ensicsLabs/DAMM
-git clone https://github.com/SideChannelMarvels/Daredevil
-git clone https://github.com/BlackArch/darkmysqli
-git clone https://github.com/upgoingstar/datasploit
-git clone https://github.com/Graph-X/davscan
-git clone https://github.com/gitdurandal/dbd
-git clone https://github.com/taviso/dbusmap
-git clone https://github.com/kgretzky/dcrawl
-git clone https://github.com/UndeadSec/Debinject
-git clone https://github.com/UltimateHackers/Decodify
-git clone https://github.com/takeshixx/deen
-git clone https://github.com/PentesterES/Delorean
-git clone https://github.com/galkan/depdep
-git clone https://github.com/sensepost/det
-git clone https://github.com/horsicq/Detect-It-Easy
-git clone https://github.com/galkan/tools/tree/master/detect_sniffer
-git clone https://github.com/spectresearch/detectem
-git clone https://github.com/DanMcInerney/device-pharmer
-git clone https://github.com/DexPatcher/dexpatcher-tool
-git clone https://github.com/philarkwright/DGA-Detection
-git clone https://github.com/elceef/dhcpf
-git clone https://github.com/kamorin/DHCPig
-git clone https://github.com/misje/dhcpoptinj
-git clone https://github.com/digination/dirbuster-ng
-git clone https://github.com/hahwul/dirhunt
-git clone https://github.com/maurosoria/dirsearch
-git clone https://github.com/lorenzog/dns-parallel-prober
-git clone https://github.com/StalkR/dns-reverse-proxy
-git clone https://github.com/maurotfilho/dns-spoof
-git clone https://github.com/d4rkcat/dnsbrute
-git clone https://github.com/leonjza/dnsfilexfer
-git clone https://github.com/darkoperator/dnsrecon
-git clone https://github.com/evilsocket/dnssearch
-git clone https://github.com/m57/dnsteal
-git clone https://github.com/elceef/dnstwist
-git clone https://github.com/cr0hn/dockerscan
-git clone https://github.com/MarkBaggett/domain_stats
-git clone https://github.com/coldfusion39/domi-owned
-git clone https://github.com/wireghoul/doona
-git clone https://github.com/AeonDave/doork
-git clone https://github.com/CoalfireLabs/crackHOR
-git clone https://github.com/utiso/dorkbot
-git clone https://github.com/NullArray/DorkNet
-git clone https://github.com/insaneisnotfree/Blue-Sky-Information-Security
-git clone https://github.com/ucsb-seclab/dr_checker
-git clone https://github.com/D4Vinci/Dr0p1t-Framework
-git clone https://github.com/screetsec/Dracnmap
-git clone https://github.com/Shellntel/backdoors
-git clone https://github.com/emptymonkey/drinkme
-git clone https://github.com/dripcap/dripcap
-git clone https://github.com/droope/droopescan
-git clone https://github.com/mwrlabs/drozer
-git clone https://github.com/Tethik/drupal-module-enumeration
-git clone https://github.com/immunIT/drupwn
-git clone https://github.com/dlang-community/D-Scanner
-git clone https://github.com/szechyjs/dsd
-git clone https://github.com/stamparm/DSFS
-git clone https://github.com/stamparm/DSJS
-git clone https://github.com/stamparm/DSSS
-git clone https://github.com/stamparm/DSXS
-git clone https://github.com/fleetcaptain/dtp-spoof
-git clone https://github.com/furface/dudley
-git clone https://github.com/0verl0ad/Dumb0
-git clone https://github.com/MalcolmRobb/dump1090
-git clone https://github.com/dungtv543/Dutas
-git clone https://github.com/kost/dvcs-ripper
-git clone https://github.com/securestate/eapeak
-git clone https://github.com/s0lst1c3/eaphammer
-git clone https://github.com/brav0hax/easy-creds
-git clone https://github.com/nccgroup/easyda
-git clone https://github.com/elfmaster/ecfs
-git clone https://github.com/jacob-baines/elfparser
-git clone https://github.com/DeveloppSoft/EliDecode
-git clone https://github.com/DanMcInerney/elite-proxy-finder
-git clone https://github.com/cr0hn/enteletaor
-git clone https://github.com/dejanlevaja/enum_shares
-git clone https://github.com/Gilks/enumerid
-git clone https://github.com/thorkill/eresi
-git clone https://github.com/peterpt/eternal_scanner
-git clone http://ettercap.github.com/ettercap/
-git clone https://github.com/kgretzky/evilginx
-git clone https://github.com/yarox24/evtkit
-git clone https://github.com/Exa-Networks/exabgp
-git clone https://github.com/OsandaMalith/Exe2Image
-git clone https://github.com/cysinfo/Exescan
-git clone https://github.com/NullHypothesis/exitmap
-git clone https://github.com/tr3w/ExpImp-Lookup
-git clone https://github.com/juansacco/exploitpack
-git clone https://github.com/asciimoo/exrex
-git clone https://github.com/bwall/ExtractHosts
-git clone https://github.com/ChrisTruncer/EyeWitness
-git clone https://github.com/ysrc/F-Scrack
-git clone https://github.com/pun1sh3r/facebot
-git clone https://github.com/PowerScript/facebrok
-git clone https://github.com/emerinohdz/FaceBrute
-git clone https://github.com/Crypt0s/FakeDns
-git clone https://github.com/fireeye/flare-fakenet-ng
-git clone https://github.com/mubix/FakeNetBIOS
-git clone https://github.com/evilsocket/fang
-git clone https://github.com/chinoogawa/fbht-linux
-git clone https://github.com/guelfoweb/fbid
-git clone https://github.com/nccgroup/featherduster
-git clone https://github.com/fesh0r/fernflower
-git clone https://github.com/stealth/fernmelder
-git clone https://github.com/sfan5/fi6s
-git clone https://github.com/henshin/filebuster
-git clone https://github.com/keithjjones/fileintel
-git clone https://github.com/subinacls/Filibuster
-git clone https://github.com/manwhoami/findmyiphone
-git clone https://github.com/1N3/findsploit
-git clone https://github.com/BishopFox/firecat
-git clone https://github.com/mazen160/Firefox-Security-Toolkit
-git clone https://github.com/craigz28/firmwalker
-git clone https://github.com/nccgroup/firstexecution
-git clone https://github.com/fireeye/flare-floss
-git clone https://github.com/galkan/flashlight
-git clone https://github.com/riusksk/FlashScanner
-git clone https://github.com/7h3rAm/flowinspect
-git clone https://github.com/FluxionNetwork/fluxion
-git clone https://github.com/byt3smith/Forager
-git clone https://github.com/ALSchwalm/foresight
-git clone https://github.com/Owlz/formatStringExploiter
-git clone https://github.com/kirei/fpdns
-git clone https://github.com/stealth/fraud-bridge
-git clone https://github.com/kylemcdonald/FreeWifi
-git clone https://github.com/Nightbringer21/fridump
-git clone https://github.com/nccgroup/FrisbeeLite
-git clone https://github.com/miaouPlop/fs
-git clone https://github.com/adtac/fssb
-git clone https://github.com/RubenRocha/ftpscout
-git clone https://github.com/k0retux/fuddly
-git clone https://github.com/almandin/fuxploider
-git clone https://github.com/lostincynicism/FuzzAP
-git clone https://github.com/fuzzdb-project/fuzzdb
-git clone https://github.com/twelvesec/gasmask
-git clone https://github.com/michaeltelford/gatecrasher
-git clone https://github.com/byt3bl33d3r/gcat
-git clone https://github.com/cs01/gdbgui
-git clone https://github.com/hugsy/gef
-git clone https://github.com/TigerSecurity
-git clone https://github.com/vulnersCom/getsploit
-git clone http://jeanphix.github.com/Ghost.py/
-git clone https://github.com/mschwager/gitem
-git clone https://github.com/lijiejie/githack
-git clone https://github.com/mazen160/GithubCloner
-git clone https://github.com/zricethezav/gitleaks
-git clone https://github.com/giovanifss/gitmails
-git clone https://github.com/danilovazb/GitMiner
-git clone https://github.com/internetwache/GitTools
-git clone https://github.com/joshDelta/Gloom-Framework
-git clone https://github.com/OWASP/glue
-git clone https://github.com/razc411/GoBD
-git clone https://github.com/OJ/gobuster
-git clone https://github.com/NetSPI/goddi
-git clone https://github.com/jseidl/GoldenEye
-git clone https://github.com/golismero/golismero
-git clone https://github.com/anarcoder/google_explorer
-git clone https://github.com/zombiesam/googlesub
-git clone https://github.com/1N3/Goohak
-git clone https://github.com/Nhoya/gOSINT
-git clone https://github.com/osqzss/gps-sdr-sim
-git clone https://github.com/black-brain/graBing
-git clone https://github.com/trailofbits/grr
-git clone https://github.com/summerwind/h2spec
-git clone https://github.com/portantier/habu
-git clone https://github.com/Ridter/hackredis
-git clone https://github.com/mossmann/hackrf
-git clone https://github.com/haka-security/haka
-git clone https://github.com/4shadoww/hakkuframework
-git clone https://github.com/Rich5/Harness
-git clone https://github.com/galkan/hasere
-git clone https://github.com/UltimateHackers/Hash-Buster/
-git clone https://github.com/iagox86/hash_extender
-git clone https://github.com/hashcat/hashcat-utils
-git clone https://github.com/NPS-DEEP/hashdb/
-git clone https://github.com/ChrisTruncer/Hasher
-git clone https://github.com/rurapenthe/hashfind
-git clone https://github.com/psypanda/hashID
-git clone https://github.com/bwall/HashPump
-git clone https://github.com/SmeegeSec/HashTag
-git clone https://github.com/HatBashBR/HatCloud
-git clone https://github.com/trustedsec/hate_crack
-git clone https://github.com/trolldbois/python-haystack
-git clone https://github.com/ZerBea/hcxtools
-git clone https://github.com/rjw57/hdcp-genkey
-git clone https://github.com/ApertureLabsLtd/hdmi-sniff
-git clone https://github.com/robertdavidgraham/heartleech
-git clone https://github.com/ytisf/hemingway
-git clone https://github.com/EgeBalci/HERCULES
-git clone https://github.com/stephenbradshaw/hlextend
-git clone https://github.com/nccgroup/hodor
-git clone https://github.com/DataSoft/Honeyd/
-git clone https://github.com/foospidy/HoneyPy
-git clone https://github.com/xme/hoover/
-git clone https://github.com/gabamnml/hoper
-git clone https://github.com/OpenSecurityResearch/hostapd-wpe
-git clone https://github.com/schollz/howmanypeoplearearound
-git clone https://github.com/rep/hpfeeds
-git clone https://github.com/PaulSec/HQLmap
-git clone https://github.com/riramar/hsecscan
-git clone https://github.com/segment-srl/htcap
-git clone https://github.com/lijiejie/htpwdScan
-git clone https://github.com/lkarsten/htrosbif
-git clone https://github.com/wireghoul/htshells
-git clone https://github.com/Danladi/git clone httpPwnly
-git clone https://github.com/breenmachine/git clone httpscreenshot
-git clone https://github.com/cthit/hubbIT-sniffer
-git clone https://github.com/grafov/hulk
-git clone https://github.com/nbuechler/hungry-interceptor
-git clone https://github.com/CoolerVoid/Hyde
-git clone https://github.com/xiam/hyperfox
-git clone https://github.com/hackappcom/ibrute/
-git clone https://github.com/m4ll0k/iCloudBrutter
-git clone https://github.com/inquisb/icmpsh
-git clone https://github.com/BillyV4/ID-entify
-git clone https://github.com/lijiejie/IIS_shortname_Scanner
-git clone https://github.com/coderofsalvation/imagegrep-bash
-git clone https://github.com/jklmnn/imagejs
-git clone https://github.com/ralphje/imagemounter
-git clone https://github.com/m4ll0k/infoga
-git clone https://github.com/penafieljlm/inquisitor
-git clone https://github.com/4w4k3/Insanity-Framework
-git clone https://github.com/thelinuxchoice/instashell
-git clone https://github.com/carmaa/interrogate
-git clone https://github.com/ohdae/Intersect.5
-git clone https://github.com/Flo354/iOSForensic
-git clone https://github.com/takeshixx/ip-git clone https-tools
-git clone https://github.com/AnarchyAngel/IPMIPWN
-git clone https://github.com/OsandaMalith/IPObfuscator
-git clone https://github.com/Hackplayers/iptodomain
-git clone https://github.com/Pinperepette/IPTV
-git clone https://github.com/milo2012/ipv4Bypass
-git clone https://github.com/bwall/ircsnapshot
-git clone https://github.com/dark-lbp/isf
-git clone https://github.com/halitalptekin/isip
-git clone https://github.com/juphoff/issniff
-git clone https://github.com/flankerhqd/JAADAS/
-git clone https://github.com/skylot/jadx
-git clone https://github.com/stasinopoulos/jaidam
-git clone https://github.com/SpiderLabs/jboss-autopwn
-git clone https://github.com/SideChannelMarvels/JeanGrey
-git clone https://github.com/joaomatosf/jexboss
-git clone https://github.com/rastating/jooforce
-git clone https://github.com/rastating/joomlavs
-git clone https://github.com/jindrapetrik/jpexs-decompiler
-git clone https://github.com/ron190/jsql-injection
-git clone https://github.com/mindedsecurity/JStillery
-git clone https://github.com/securactive/junkie
-git clone https://github.com/katjahahn/JWScan
-git clone https://github.com/brendan-rius/c-jwt-cracker
-git clone https://github.com/galkan/kacak
-git clone https://github.com/P0cL4bs/Kadimus
-git clone https://github.com/steve-m/kalibrate-rtl
-git clone https://github.com/samratashok/Kautilya/releases
-git clone https://github.com/gentilkiwi/kekeo
-git clone https://github.com/spencerdodd/kernelpop
-git clone https://github.com/k4m4/kickthemout
-git clone https://github.com/ChaitanyaHaritash/kimi
-git clone https://github.com/desaster/kippo
-git clone https://github.com/cisco-sas/kitty
-git clone https://github.com/guelfoweb/knock
-git clone https://github.com/ernw/knxmap
-git clone https://github.com/zerosum0x0/koadic
-git clone https://github.com/roissy/l0l
-git clone https://github.com/takeshixx/laf
-git clone http://github.com/rflynn/lanmap2
-git clone https://github.com/DanMcInerney/LANs.py
-git clone https://github.com/AlessandroZ/LaZagne
-git clone https://github.com/wireghoul/lbmap
-git clone https://github.com/sduverger/ld-shatner
-git clone https://github.com/droope/ldap-brute
-git clone https://github.com/captainhooligan/Leroy-Jenkins
-git clone https://github.com/onthefrontline/LetMeFuckIt-Scanner
-git clone https://github.com/leviathan-framework/leviathan
-git clone https://github.com/galkan/levye
-git clone https://github.com/OsandaMalith/LFiFreak/
-git clone https://github.com/aepereyra/lfimap/
-git clone https://github.com/D35m0nd142/LFISuite
-git clone https://github.com/williballenthin/LfLe
-git clone https://github.com/blindfuzzy/LHF
-git clone https://github.com/libyal/libbde
-git clone https://github.com/rotlogix/liffy
-git clone https://github.com/lightbulb-framework/lightbulb-framework
-git clone https://github.com/kd8bny/LiMEaide
-git clone https://github.com/rebootuser/LinEnum
-git clone https://github.com/vk496/linset
-git clone https://github.com/PenturaLabs/Linux_Exploit_Suggester
-git clone https://github.com/mzet-/linux-exploit-suggester
-git clone https://github.com/ant4g0nist/lisa.py
-git clone https://github.com/taviso/loadlibrary
-git clone https://github.com/lightfaith/locasploit
-git clone https://github.com/NewEraCracker/LOIC
-git clone https://github.com/api0cradle/LOLBAS
-git clone https://github.com/GuerrillaWarfare/Loot
-git clone https://github.com/jensvoid/lorg
-git clone https://github.com/Evrytania/LTE-Cell-Scanner
-git clone https://github.com/lateralblast/lunar
-git clone https://github.com/deathmarine/Luyten
-git clone https://github.com/HurricaneLabs/machinae
-git clone https://github.com/paraxor/maclookup
-git clone https://github.com/steverobbins/magescan
-git clone https://raw.githubusercontent.com/galkan/tools/master/mail-crawl/
-git clone https://github.com/tomchop/malcom
-git clone https://github.com/Ice3man543/MalScan
-git clone https://github.com/stamparm/maltrail
-git clone https://github.com/technoskald/maltrieve
-git clone https://github.com/sensepost/mana
-git clone https://github.com/z0noxz/mando.me
-git clone https://github.com/xtiankisutsa/MARA_Framework
-git clone https://github.com/ApertureLabsLtd/marc4dasm
-git clone https://github.com/black-brain/maryam
-git clone https://github.com/1N3/Sn1per
-git clone https://github.com/robertdavidgraham/masscan
-git clone https://github.com/trevordavenport/MasscanAutomation
-git clone https://github.com/blechschmidt/massdns
-git clone https://github.com/jm33-m0/massExpConsole
-git clone https://github.com/fgrimme/Matroschka
-git clone https://github.com/chadillac/mdns_recon
-git clone https://github.com/a0rtega/metame
-git clone https://github.com/trustedsec/meterssh
-git clone https://github.com/kost/mikrotik-npk
-git clone https://github.com/gentilkiwi/mimikatz
-git clone https://github.com/huntergregal/mimipenguin
-git clone https://github.com/kamalmostafa/minimodem
-git clone https://github.com/xdavidhu/mitmAP
-git clone https://github.com/husam212/MITMer
-git clone https://github.com/byt3bl33d3r/MITMf
-git clone http://mkbrutusproject.github.io/MKBRUTUS/
-git clone https://github.com/ajinabraham/Mobile-Security-Framework-MobSF
-git clone https://github.com/aol/moloch
-git clone https://github.com/stampery/mongoaudit
-git clone https://github.com/vortexau/mooscan
-git clone https://github.com/r00txp10it/morpheus
-git clone https://github.com/CoolerVoid/Mosca
-git clone https://github.com/koto/mosquito
-git clone https://github.com/kevinkoo001/MotS
-git clone https://github.com/waytoalpit/ManOnTheSideAttack-DNS-Spoofing
-git clone https://github.com/iamckn/mousejack_transmit
-git clone https://github.com/Neohapsis/mptcp-abuse
-git clone https://github.com/meliht/mr.sip
-git clone https://github.com/YoshiyukiYamauchi/mrtparse
-git clone https://github.com/g0tmi1k/mpc
-git clone https://github.com/wez3/msfenum
-git clone https://github.com/EliasOenal/multimon-ng
-git clone https://github.com/mitre/multiscanner
-git clone https://github.com/covertcodes/multitun
-git clone https://github.com/falcon-lnhg/mwebfp
-git clone https://github.com/MooseDojo/myBFF
-git clone https://github.com/mehrdadrad/mylg
-git clone https://gist.github.com/esperlu/943776
-git clone https://github.com/carmaa/nacker
-git clone https://github.com/tcstool/nasnum.git
-git clone https://github.com/PentesterES/Necromant
-git clone https://github.com/mwrlabs/needle
-git clone https://github.com/GuerrillaWarfare/neglected
-git clone https://github.com/PherricOxide/Neighbor-Cache-Fingerprinter
-git clone https://github.com/troglobit/nemesis
-git clone https://github.com/DanMcInerney/net-creds
-git clone https://github.com/chrizator/netattack2
-git clone https://github.com/evilsocket/netcommander
-git clone https://github.com/NytroRST/NetRipper
-git clone https://github.com/walchko/netscan2
-git clone https://github.com/PherricOxide/Network-App-Stress-Tester
-git clone https://github.com/lorenzog/NetworkMap
-git clone https://github.com/hdm/nextnet
-git clone https://github.com/bonsaiviking/NfSpy
-git clone https://github.com/jpr5/ngrep/
-git clone https://github.com/sullo/nikto
-git clone https://github.com/niloofarkheirkhah/nili
-git clone https://github.com/andresriancho/nimbostratus
-git clone https://github.com/GouveaHeitor/nipe
-git clone https://github.com/flipchan/Nohidy
-git clone https://github.com/hiddenillusion/NoMoreXOR
-git clone https://github.com/Rurik/Noriben
-git clone https://github.com/youngyangyang04/NoSQLAttack
-git clone https://github.com/tcstool/NoSQLMap.git
-git clone https://github.com/chrisallenlane/novahot
-git clone https://github.com/JKO/nsearch
-git clone https://github.com/anonion0/nsec3map
-git clone https://github.com/csababarta/ntdsxtract
-git clone https://github.com/vpnguy/ntpdos
-git clone https://github.com/m8r0wn/nullinux
-git clone https://github.com/BL4CKvGHOST/Ob3vil1on
-git clone https://github.com/wetw0rk/objdump2shellcode
-git clone https://github.com/amlight/ofp_sniffer
-git clone https://github.com/RUB-SysSec/OMEN
-git clone https://github.com/InQuest/omnibus
-git clone https://github.com/Miserlou/omnihash
-git clone https://github.com/k4m4/onioff
-git clone https://github.com/micahflee/onionshare/
-git clone https://github.com/stanislav-web/OpenDoor
-git clone https://github.com/regit/opensvp
-git clone https://github.com/graniet/operative-framework
-git clone https://github.com/SharadKumar97/OSINT-SPY
-git clone https://github.com/guitarmanj/OSINTerator
-git clone https://github.com/i3visio/osrframework
-git clone https://github.com/c0r3dump3d/osueta
-git clone https://github.com/lijiejie/OutLook_WebAPP_Brute
-git clone https://github.com/depasonico/OWASP-ByWaf
-git clone https://github.com/zscproject/OWASP-ZSC
-git clone https://github.com/hashicorp/packer
-git clone https://github.com/DNS-OARC/PacketQ
-git clone https://github.com/dannagle/PacketSender
-git clone https://github.com/bniemczyk/pacumen
-git clone https://github.com/Dionach/PANhunt
-git clone https://github.com/lightos/Panoptic
-git clone https://github.com/roglew/pappy-proxy
-git clone https://github.com/mak-/parameth
-git clone https://github.com/KasperskyLab/ForensicsTools
-git clone https://github.com/behindthefirewalls/Parsero
-git clone http://github.com/jensp/passcracking
-git clone https://github.com/Dionach/PassHunt
-git clone https://github.com/gamelinux/passivedns
-git clone https://github.com/isaudits/pasv-agrsv
-git clone https://github.com/lanjelot/patator
-git clone https://github.com/lunixbochs/patchkit
-git clone https://github.com/ShotokanZH/Pa-th-zuzu
-git clone https://github.com/CoolerVoid/payloadmask
-git clone https://github.com/vikwin/pcapfex
-git clone https://github.com/Srinivas11789/PcapXray
-git clone https://github.com/lgandx/PCredz
-git clone https://github.com/Caleb1994/peach
-git clone https://github.com/longld/peda
-git clone https://github.com/guelfoweb/peframe
-git clone https://github.com/robertdavidgraham/pemcrack
-git clone https://github.com/bwall/pemcracker.git
-git clone https://github.com/x3omdax/PenBox
-git clone https://github.com/praetorian-inc/pentestly
-git clone https://github.com/GinjaChris/pentmenu
-git clone https://github.com/petoolse/petools
-git clone https://github.com/facebook/pfff
-git clone https://github.com/idiom/pftriage
-git clone https://github.com/kstrauser/pgdbf
-git clone https://github.com/Dionach/PhEmail
-git clone https://github.com/ryhanson/phishery
-git clone https://github.com/t4d/PhishingKitHunter
-git clone https://github.com/s0md3v/Photon
-git clone https://github.com/pentestmonkey/php-findsock-shell
-git clone https://github.com/bwall/PHP-RFI-Payload-Decoder
-git clone https://github.com/nil0x42/phpsploit
-git clone https://github.com/nightlionsecurity/phpstress
-git clone https://github.com/WiPi-Hunter/PiDense
-git clone https://github.com/wagiro/pintool
-git clone https://github.com/sebastiendamaye/pintool2
-git clone https://github.com/nccgroup/pip3line
-git clone https://github.com/hirnschallsebastian/Pipeline2
-git clone https://github.com/FireyFly/pixd
-git clone https://github.com/wiire/pixiewps
-git clone https://github.com/caesar0301/pkt2flow
-git clone https://github.com/joelpx/plasma
-git clone https://github.com/iniqua/plecost
-git clone https://github.com/unweb/plown
-git clone https://github.com/cybereason/linux_plumber
-git clone https://github.com/pmacct/pmacct
-git clone https://github.com/nccgroup/PMapper
-git clone https://github.com/knownsec/Pocsuite
-git clone https://github.com/rfunix/Pompem
-git clone https://github.com/iagox86/poracle
-git clone https://github.com/SpiderLabs/portia
-git clone https://github.com/fdiskyou/PowerOPS
-git clone https://github.com/mattifestation/PowerSploit
-git clone https://github.com/z0noxz/powerstager
-git clone https://github.com/n1nj4sec/pr0cks
-git clone http://gamelinux.github.io/prads/
-git clone https://github.com/percx/Praeda
-git clone https://github.com/RUB-NDS/PRET
-git clone https://github.com/jsteube/princeprocessor/
-git clone https://github.com/Microsoft/ProcDump-for-Linux
-git clone https://github.com/daniel-araujo/proctal
-git clone https://github.com/HSASec/ProFuzz
-git clone https://github.com/averagesecurityguy/prometheus
-git clone https://github.com/alfresco/prowler
-git clone https://github.com/hugsy/proxenet
-git clone https://github.com/Proxmark/proxmark3
-git clone https://github.com/rofl0r/proxychains
-git clone https://github.com/CroweCybersecurity/ps1encode
-git clone https://github.com/regit/pshitt
-git clone https://github.com/trustedsec/ptf
-git clone https://github.com/byt3bl33d3r/pth-toolkit
-git clone https://github.com/shirkdog/pulledpork
-git clone https://github.com/hgascon/pulsar
-git clone https://github.com/nethunteros/punter
-git clone https://github.com/tch1001/pwdlogy
-git clone https://github.com/ins1gn1a/pwdlyser
-git clone https://github.com/pwndbg/pwndbg
-git clone https://github.com/wKovacs64/pwned
-git clone https://github.com/h0ussni/pwnloris
-git clone https://github.com/Gallopsled/pwntools
-git clone https://github.com/ikkebr/PyBozoCrack
-git clone https://github.com/LandGrey/pydictor
-git clone https://github.com/nottinghamprisateam/pyersinia
-git clone https://github.com/ytisf/PyExfil
-git clone https://github.com/fgeek/pyfiscan
-git clone https://github.com/mseclab/PyJFuzz
-git clone https://github.com/bidord/pykek
-git clone https://github.com/JPaulMora/Pyrit
-git clone https://github.com/moheshmohan/pyssltest
-git clone https://github.com/m4n3dw0lf/PytheM
-git clone https://github.com/beautify-web/js-beautify
-git clone https://github.com/JustinAzoff/python-cymruwhois
-git clone http://github.com/achillean/shodan-python
-git clone https://github.com/VirusTotal/yara-python
-git clone https://github.com/beautify-web/js-beautify
-git clone https://github.com/VirusTotal/yara-python
-git clone https://github.com/linkedin/qark
-git clone https://github.com/tylabs/quicksand_lite
-git clone https://github.com/radareorg/cutter
-git clone https://github.com/radare/radare2-extras/tree/master/unicorn
-git clone https://github.com/funkandwagnalls/ranger
-git clone https://github.com/0x09AL/raven
-git clone https://github.com/taviso/rbndr
-git clone https://github.com/t6x/reaver-wps-fork-t6x
-git clone https://github.com/codingo/Reconnoitre
-git clone https://github.com/RoliSoft/ReconScan
-git clone https://github.com/Lazza/RecuperaBit
-git clone https://github.com/Tuhinshubhra/RED_HAWK
-git clone https://github.com/digitalbond/Redpoint3
-git clone https://github.com/darkk/redsocks
-git clone https://github.com/fireeye/ReelPhish
-git clone https://github.com/sensepost/reGeorg
-git clone https://github.com/SpiderLabs/Responder/
-git clone https://github.com/lgandx/Responder
-git clone https://github.com/lolwaleet/ReverseIP
-git clone https://github.com/PypeRanger/revipd
-git clone https://github.com/emptymonkey/revsh/
-git clone https://github.com/shellphish/rex
-git clone https://github.com/j91321/rext
-git clone https://github.com/trustedsec/ridenum
-git clone https://github.com/graniet/riwifshell
-git clone https://github.com/sashs/Ropper
-git clone https://github.com/inaz2/roputils
-git clone https://github.com/jh00nbr/Routerhunter.0
-git clone https://github.com/reverse-shell/routersploit
-git clone https://github.com/0vercl0k/rp
-git clone https://github.com/AdiKo/RPCSniffer
-git clone https://github.com/freakyclown/RPDscan
-git clone https://github.com/artkond/rpivot
-git clone https://github.com/mozilla/rr
-git clone https://github.com/Ganapati/RsaCtfTool
-git clone https://github.com/ius/rsatool
-git clone https://github.com/panagiks/RSPET
-git clone https://github.com/leostat/rtfm
-git clone https://github.com/bemasher/rtlamr/
-git clone https://github.com/csete/rtlizer
-git clone https://github.com/EarToEarOak/RTLSDR-Scanner
-git clone https://github.com/sensepost/ruler
-git clone https://github.com/petermbenjamin/s3-fuzzer
-git clone https://github.com/sa7mon/S3Scanner
-git clone https://github.com/sleinen/samplicator
-git clone http://github.com/jensp/samydeluxe
-git clone https://github.com/xoreaxeaxeax/sandsifter
-git clone https://github.com/donctl/sandy
-git clone https://github.com/elfmaster/saruman
-git clone https://github.com/Dman95/SASM
-git clone https://github.com/danilovazb/sawef
-git clone https://github.com/levi0x0/sb0x-project
-git clone https://github.com/t00sh/sc-make
-git clone https://github.com/vesche/scanless
-git clone https://github.com/scanmem/scanmem
-git clone https://github.com/kudelskisecurity/scannerl
-git clone https://github.com/huntergregal/scansploit
-git clone http://isecpartners.github.io/Scout2/
-git clone https://github.com/304GEEK/Scrape-DNS
-git clone https://github.com/pfalcon/ScratchABit
-git clone https://github.com/smythtech/sdnpwn
-git clone https://github.com/neuromancer/SEA
-git clone https://github.com/b3mb4m/Search1337
-git clone https://github.com/offensive-security/exploit-database
-git clone https://github.com/galkan/sees/
-git clone https://github.com/sensepost/xrdp
-git clone https://github.com/darkoperator/dnsrecon
-git clone https://github.com/NickstaDB/SerialBrute
-git clone https://github.com/mazen160/server-status_PWN
-git clone https://github.com/cr-marcstevens/sha1collisiondetection
-git clone https://github.com/philwantsfish/shard
-git clone https://github.com/CroweCybersecurity/shareenum
-git clone https://github.com/shirosaidev/sharesniffer
-git clone https://github.com/danielhenrymantilla/shellcode-factory
-git clone https://github.com/merrychap/shellen
-git clone https://github.com/shellinabox/shellinabox
-git clone https://github.com/ewilded/shelling
-git clone https://github.com/hatRiot/shellme
-git clone https://github.com/reyammer/shellnoob
-git clone https://github.com/b3mb4m/shellsploit-framework
-git clone https://github.com/elfmaster/sherlocked
-git clone https://github.com/acidvegas/shitflood
-git clone https://github.com/nccgroup/shocker
-git clone http://github.com/achillean/shodan-python
-git clone https://github.com/HatBashBR/ShodanHat
-git clone https://github.com/aploium/shootback
-git clone https://github.com/wetw0rk/Sickle
-git clone https://github.com/SigPloiter/SigPloit
-git clone https://github.com/achorein/silenteye/
-git clone https://github.com/lunarca/SimpleEmailSpoofer
-git clone https://github.com/CalebFenton/simplify
-git clone https://github.com/killswitch-GUI/SimplyEmail
-git clone https://github.com/packetassailant/sipbrute
-git clone https://github.com/xenomuta/SIPffer
-git clone https://github.com/ST2Labs/SIPI
-git clone https://github.com/Pepelux/sippts
-git clone https://github.com/zaf/sipshock
-git clone https://github.com/digininja/sitediff
-git clone https://github.com/cryptcoffee/skul
-git clone https://github.com/samyk/skyjack
-git clone http://osandamalith.github.io/SkypeFreak/
-git clone https://github.com/RhinoSecurityLabs/SleuthQL
-git clone https://github.com/mfontanini/sloth-fuzzer
-git clone https://github.com/gkbrk/slowloris
-git clone https://github.com/bbb31/slurp
-git clone https://github.com/JesusFreke/smali
-git clone https://github.com/ch0psticks/Smali-CFGs
-git clone https://github.com/dorneanu/smalisca
-git clone https://github.com/suraj-root/smap
-git clone https://github.com/georgiaw/Smartphone-Pentest-Framework
-git clone https://github.com/Raikia/SMBCrunch
-git clone https://github.com/pentestgeek/smbexec
-git clone https://github.com/ShawnDEvans/smbmap
-git clone https://github.com/T-S-A/smbspider
-git clone https://github.com/smikims/arpspoof
-git clone https://github.com/enddo/smod
-git clone https://github.com/z0noxz/smplshllctrlr
-git clone https://github.com/isaudits/smtp-test
-git clone https://github.com/1N3/Sn1per
-git clone https://github.com/hannob/snallygaster
-git clone https://github.com/thebradbain/snapception
-git clone https://github.com/purpleteam/snarf
-git clone https://github.com/SkypLabs/sniff-probe-req
-git clone https://github.com/julioreynaga/sniffer
-git clone https://github.com/petabi/sniffles
-git clone https://github.com/SECFORCE/SNMP-Brute
-git clone https://github.com/m57/snoopbrute
-git clone https://github.com/sensepost/snoopy-ng
-git clone https://github.com/mauro-g/snuck
-git clone https://github.com/Betawolf/social-vuln-scanner
-git clone https://github.com/UndeadSec/SocialFish
-git clone https://github.com/landw1re/socketfuzz
-git clone https://github.com/Ganapati/spaf
-git clone https://github.com/sensepost/SPartan
-git clone https://github.com/tatanus/SPF
-git clone https://github.com/BishopFox/spfmap
-git clone https://github.com/getdual/scripts-n-tools/blob/master/spiga.py
-git clone https://github.com/PaulSec/SPIPScan
-git clone https://github.com/BlackArch/sploitctl
-git clone https://github.com/allfro/sploitego
-git clone https://github.com/bishopfox/spoofcheck
-git clone https://github.com/Hadesy2k/sqlivulscan
-git clone https://ssdeep-project.github.io/ssdeep/
-git clone https://github.com/arthepsy/ssh-audit
-git clone https://github.com/droberson/ssh-honeypot
-git clone https://github.com/jtesta/ssh-mitm
-git clone https://github.com/nccgroup/ssh-user-enum
-git clone https://github.com/getdual/scripts-n-tools/blob/master/sshscan.py
-git clone https://github.com/sshuttle/sshuttle
-git clone https://github.com/zombiesam/ssl_phuck3r
-git clone https://github.com/grwl/sslcaudit
-git clone https://github.com/ssllabs/ssllabs-scan
-git clone https://github.com/jtripper/sslnuke
-git clone https://github.com/DinoTools/sslscan/
-git clone https://github.com/nabla-c0d3/sslyze/
-git clone https://github.com/secrary/SSMA
-git clone https://github.com/bcoles/ssrf_proxy
-git clone https://github.com/d4rkcat/stackflow
-git clone https://github.com/j-t/staekka
-git clone https://github.com/ipopov/starttls-mitm
-git clone https://github.com/redNixon/stegdetect
-git clone https://github.com/razc411/StegoLeggo
-git clone https://github.com/epinna/Stegosip
-git clone https://github.com/zardus/ctf-tools/blob/master/stegsolve/install
-git clone https://github.com/google/stenographer
-git clone https://github.com/ztgrace/sticky_keys_hunter
-git clone https://github.com/UltimateHackers/Striker
-git clone https://github.com/tintinweb/striptls
-git clone https://github.com/riusksk/StrutScan
-git clone https://github.com/TheRook/subbrute
-git clone https://github.com/Ice3man543/subfinder
-git clone https://github.com/OpenRCE/sulley/
-git clone https://github.com/anantshri/svn-extractor
-git clone https://github.com/sevagas/swap_digger
-git clone https://github.com/Arvin-X/swarm
-git clone https://github.com/dlrobertson/sylkie
-git clone https://github.com/danigargu/syms2elf
-git clone https://github.com/securestate/syringe
-git clone https://github.com/ANSSI-FR/tabi
-git clone https://github.com/delvelabs/tachyon
-git clone https://github.com/0xdea/tactical-exploitation
-git clone https://github.com/antagon/TCHunt-ng
-git clone https://github.com/Octosec/tckfc
-git clone https://github.com/session-replay-tools/tcpcopy
-git clone https://github.com/netik/tcpdstat
-git clone https://github.com/simsong/tcpflow
-git clone https://github.com/1aN0rmus/TekDefense-Automater
-git clone https://github.com/drwetter/testssl.sh
-git clone https://github.com/droberson/thefuzz
-git clone https://github.com/ytisf/theZoo
-git clone https://github.com/AeonDave/tilt
-git clone https://github.com/technoskald/tinfoleak/
-git clone https://github.com/RUB-NDS/TLS-Attacker
-git clone https://github.com/LeeBrotherston/tls-fingerprinting
-git clone https://github.com/WestpointLtd/tls_prober
-git clone https://github.com/Ayrx/tlsenum
-git clone https://github.com/iSECPartners/tlspretense
-git clone https://github.com/mgeeky/tomcatWarDeployer
-git clone https://github.com/toperaproject/topera
-git clone https://github.com/epinna/tplmap
-git clone https://github.com/GuerrillaWarfare/Treasure
-git clone https://github.com/JonathanSalwan/Triton
-git clone https://github.com/trizen/trizen
-git clone https://github.com/adoreste/truehunter
-git clone https://github.com/dxa4481/truffleHog
-git clone https://github.com/mandatoryprogrammer/TrustTrees
-git clone https://github.com/infodox/tsh-sctp
-git clone https://github.com/SECFORCE/Tunna
-git clone https://github.com/a-atalla/tuxcut.git
-git clone https://github.com/x0rz/tweets_analyzer
-git clone https://github.com/whoot/Typo-Enumerator
-git clone https://github.com/hfiref0x/UACME
-git clone https://github.com/greatscottgadgets/ubertooth/releases
-git clone https://github.com/headlesszeke/ubiquiti-probing
-git clone https://github.com/wangyu-/udp2raw-tunnel
-git clone https://github.com/Hello71/udpastcp
-git clone https://github.com/zombieCraig/UDSim/
-git clone https://github.com/theopolis/uefi-firmware-parser
-git clone https://github.com/epsylon/ufonet
-git clone https://github.com/nccgroup/umap
-git clone https://github.com/GDSSecurity/Unibrute
-git clone https://github.com/trustedsec/unicorn
-git clone https://github.com/pzread/unstrip
-git clone https://github.com/altf4/untwister
-git clone https://github.com/nccgroup/UPnP-Pentest-Toolkit
-git clone https://github.com/ferrery1/UpPwn
-git clone https://github.com/jopohl/urh
-git clone https://github.com/jseidl/usernamer
-git clone https://github.com/v3n0m-Scanner/V3n0M-Scanner
-git clone https://github.com/hahwul/vais
-git clone https://github.com/delvelabs/vane
-git clone https://github.com/nccgroup/vbrute
-git clone https://github.com/rezasp/vbscan
-git clone https://github.com/melvinsh/vcsmap
-git clone https://github.com/subgraph/Vega/wiki
-git clone https://github.com/Veil-Framework/Veil
-git clone https://github.com/codingo/VHostScan
-git clone https://github.com/botherder/viper
-git clone https://github.com/botherder/virustotal
-git clone https://github.com/blackvkng/viSQL
-git clone https://github.com/nccgroup/vlan-hopping
-git clone https://github.com/git-rep/vmap
-git clone https://github.com/jbremer/vmcloak
-git clone https://github.com/n0fate/volafox
-git clone https://github.com/volatilityfoundation/volatility/wiki
-git clone https://github.com/snare/voltron
-git clone https://github.com/0x36/VPNPivot
-git clone https://github.com/sanvil/vsaudit
-git clone https://github.com/pasjtene/Vscan
-git clone https://github.com/varunjammula/VSVBP
-git clone https://github.com/muhammad-bouabid/Vulnerabilities-spider
-git clone https://github.com/future-architect/vuls
-git clone https://github.com/sandrogauci/wafw00f
-git clone https://github.com/khalilbijjou/WAFNinja
-git clone https://github.com/wafpassproject/wafpass
-git clone https://github.com/SYWorks/waidps
-git clone https://github.com/red-team-labs/waldo
-git clone https://github.com/m4ll0k/WAScan
-git clone https://github.com/uoaerg/wavemon
-git clone https://github.com/jsvine/waybackpack
-git clone https://github.com/endrazine/wcc
-git clone https://github.com/Matir/webborer
-git clone https://github.com/AutoSecTools/WebExploitationTool
-git clone https://github.com/takeshixx/webfixy
-git clone https://github.com/lnxg33k/webhandler
-git clone https://github.com/peedcorp/WebHunter
-git clone https://github.com/zigoo0/webpwn3r
-git clone https://github.com/BlackArch/webrute
-git clone https://github.com/PentesterES/WebSearch
-git clone https://github.com/BlackArch/webshells
-git clone http://github.com/kanaka/websockify
-git clone https://github.com/xionsec/WebXploiter
-git clone https://github.com/Hypsurus/weeman
-git clone http://epinna.github.io/Weevely/
-git clone https://github.com/xmendez/wfuzz
-git clone https://github.com/B16f00t/whapa
-git clone https://github.com/ncrocfer/whatportis
-git clone https://github.com/WebBreacher/WhatsMyName
-git clone https://github.com/Nitr4x/whichCDN
-git clone https://github.com/Ekultek/whitewidow
-git clone https://github.com/DanMcInerney/wifi-monitor
-git clone https://github.com/P0cL4bs/WiFi-Pumpkin
-git clone https://github.com/gentilkiwi/wifichannelmonitor
-git clone https://github.com/oblique/wificurse
-git clone https://github.com/DanMcInerney/wifijammer
-git clone https://github.com/sophron/wifiphisher
-git clone https://github.com/mehdilauters/wifiScanMap
-git clone https://github.com/GDSSecurity/wifitap
-git clone https://github.com/derv82/wifite
-git clone https://github.com/jekyc/wig
-git clone https://github.com/zombiesam/wikigen
-git clone https://github.com/localh0t/wildpwn
-git clone https://github.com/basil00/Divert
-git clone https://github.com/GDSSecurity/Windows-Exploit-Suggester
-git clone https://github.com/pentestmonkey/windows-privesc-check
-git clone https://github.com/jbruchon/winregfs
-git clone https://github.com/SYWorks/wireless-ids
-git clone https://github.com/Crapworks/wolpertinger
-git clone https://github.com/gbrindisi/wordpot
-git clone https://github.com/rastating/wordpress-exploit-framework
-git clone https://github.com/swisskyrepo/Wordpresscan
-git clone https://github.com/SYWorks/wpa-bruteforcer
-git clone https://github.com/dxa4481/WPA2-HalfHandshake-Crack
-git clone https://github.com/dejanlevaja/wpbf
-git clone https://github.com/zendoctor/wpbrute-rpc
-git clone https://github.com/n00py/WPForce
-git clone https://github.com/m4ll0k/WPSeku
-git clone https://github.com/0x90/wpsik
-git clone https://github.com/JamesJGoodwin/wreckuests
-git clone https://github.com/nccgroup/wssip
-git clone https://github.com/ctxis/wsuspect-proxy
-git clone https://github.com/asciimoo/wuzz
-git clone https://github.com/orf/xcat
-git clone https://github.com/nccgroup/xcavator
-git clone https://github.com/mandatoryprogrammer/xcname
-git clone https://github.com/LionSec/xerosploit
-git clone https://github.com/earthquake/xfltreat/
-git clone https://github.com/hellman/xortool/
-git clone https://github.com/mandatoryprogrammer/xpire-crossdomain-scanner
-git clone https://github.com/CoderPirata/XPL-SEARCH
-git clone https://github.com/DanMcInerney/xsscrapy
-git clone https://github.com/mandatoryprogrammer/xssless
-git clone https://github.com/faizann24/XssPy
-git clone https://github.com/gwroblew/detectXSSlib
-git clone https://github.com/gbrindisi/xsssniper
-git clone https://github.com/1N3/XSSTracer
-git clone https://github.com/UltimateHackers/XSStrike
-git clone https://github.com/yehia-mamdouh/XSSYA
-git clone https://github.com/3xp10it/bypass_waf
-git clone https://github.com/enjoiz/XXEinjector
-git clone https://github.com/Plasticoo/YAAF
-git clone https://github.com/VirusTotal/yara
-git clone https://github.com/0xsauby/yasuo
-git clone https://github.com/adamcaudill/yawast
-git clone https://github.com/frohoff/ysoserial
-git clone https://github.com/urbanesec/ZackAttack/
-git clone https://github.com/Ekultek/Zeus-Scanner
-git clone https://github.com/zmap/zgrab
-git clone https://github.com/pasahitz/zirikatu
-git clone https://github.com/cyrus-and/zizzania
+1000 blackhat tools Collect From Github<br />
+git clone https://github.com/glv2/bruteforce-wallet<br />
+git clone https://github.com/x90skysn3k/brutespray<br />
+git clone https://github.com/1N3//BruteXSS<br />
+git clone https://github.com/enjoiz/BSQLinjector<br />
+git clone https://github.com/conorpp/btproxy<br />
+git clone https://github.com/simsong/bulk_extractor<br />
+git clone https://github.com/aanarchyy/bully<br />
+git clone https://github.com/buttinsky/buttinsky<br />
+git clone https://github.com/Konloch/bytecode-viewer<br />
+git clone https://github.com/auraltension/c5scan<br />
+git clone https://github.com/securestate/camscan<br />
+git clone https://github.com/fnk0c/cangibrina<br />
+git clone https://github.com/deibit/cansina<br />
+git clone https://github.com/eik00d/CANToolz<br />
+git clone https://github.com/packetassailant/catnthecanary<br />
+git clone https://github.com/ring0lab/catphish<br />
+git clone https://github.com/Zapotek/cdpsnarf<br />
+git clone https://github.com/nccgroup/CECster<br />
+git clone https://github.com/0xPoly/Centry<br />
+git clone https://github.com/emsec/ChameleonMini<br />
+git clone https://github.com/ztgrace/changeme<br />
+git clone https://github.com/TarlogicSecurity/Chankro<br />
+git clone https://github.com/moxie0/chapcrack<br />
+git clone https://github.com/slimm609/checksec.sh<br />
+git clone https://github.com/bl4de/Cheetah<br />
+git clone https://github.com/0xbc/chiasm-shell<br />
+git clone https://github.com/chipsec/chipsec<br />
+git clone https://github.com/jpillora/chisel<br />
+git clone https://github.com/MITRECND/chopshop<br />
+git clone https://github.com/CENSUS/choronzon<br />
+git clone http://osandamalith.github.io/ChromeFreak/<br />
+git clone https://github.com/earthquake/chw00t<br />
+git clone https://github.com/epsylon/cintruder<br />
+git clone https://github.com/jvehent/cipherscan<br />
+git clone https://github.com/OpenSecurityResearch/ciphertest<br />
+git clone https://github.com/frohoff/ciphr<br />
+git clone https://github.com/nccgroup/cisco-snmp-enumeration<br />
+git clone https://github.com/nccgroup/cisco-snmp-slap<br />
+git clone https://github.com/madrisan/cisco7crack<br />
+git clone https://github.com/madrisan/cisco7crack<br />
+git clone https://github.com/enddo/CJExploiter<br />
+git clone https://github.com/raffaele-forte/climber<br />
+git clone https://github.com/trycatchhcf/cloakify<br />
+git clone https://github.com/m0rtem/CloudFail<br />
+git clone https://github.com/mandatoryprogrammer/cloudflare_enum<br />
+git clone https://github.com/eudemonics/cloudget<br />
+git clone https://github.com/hatRiot/clusterd<br />
+git clone https://github.com/EgeBalci/Cminer/<br />
+git clone https://github.com/Tuhinshubhra/CMSeeK<br />
+git clone https://github.com/nahamsec/CMSFuzz<br />
+git clone https://github.com/packetassailant/cnamulator<br />
+git clone https://github.com/bseb/cntlm<br />
+git clone https://github.com/Intrinsec/comission<br />
+git clone https://github.com/stasinopoulos/commix<br />
+git clone https://github.com/RUB-NDS/CORStest<br />
+git clone https://github.com/D4Vinci/Cr3dOv3r<br />
+git clone https://github.com/CoalfireLabs/crackHOR<br />
+git clone https://github.com/mikeryan/crackle/<br />
+git clone https://github.com/byt3bl33d3r/CrackMapExec<br />
+git clone https://github.com/vnik5287/Crackq<br />
+git clone https://github.com/averagesecurityguy/crack<br />
+git clone https://github.com/Ganapati/Crawlic<br />
+git clone https://github.com/codepr/creak<br />
+git clone https://github.com/oblique/create_ap<br />
+git clone https://github.com/lightos/credmap<br />
+git clone https://github.com/DanMcInerney/creds.py<br />
+git clone http://github.com/ilektrojohn/creepy.git<br />
+git clone https://github.com/SpiderLabs/cribdrag<br />
+git clone https://github.com/rudSarkar/crlf-injector<br />
+git clone https://github.com/galkan/crowbar<br />
+git clone https://github.com/crozono/crozono-free<br />
+git clone https://github.com/chokepoint/CryptHook<br />
+git clone https://github.com/chamli/CyberCrowl<br />
+git clone https://github.com/medbenali/CyberScan<br />
+git clone https://github.com/shawarkhanethicalhacker/D-TECT<br />
+git clone https://github.com/Ekultek/Dagon<br />
+git clone https://github.com/504ensicsLabs/DAMM<br />
+git clone https://github.com/SideChannelMarvels/Daredevil<br />
+git clone https://github.com/BlackArch/darkmysqli<br />
+git clone https://github.com/upgoingstar/datasploit<br />
+git clone https://github.com/Graph-X/davscan<br />
+git clone https://github.com/gitdurandal/dbd<br />
+git clone https://github.com/taviso/dbusmap<br />
+git clone https://github.com/kgretzky/dcrawl<br />
+git clone https://github.com/UndeadSec/Debinject<br />
+git clone https://github.com/UltimateHackers/Decodify<br />
+git clone https://github.com/takeshixx/deen<br />
+git clone https://github.com/PentesterES/Delorean<br />
+git clone https://github.com/galkan/depdep<br />
+git clone https://github.com/sensepost/det<br />
+git clone https://github.com/horsicq/Detect-It-Easy<br />
+git clone https://github.com/galkan/tools/tree/master/detect_sniffer<br />
+git clone https://github.com/spectresearch/detectem<br />
+git clone https://github.com/DanMcInerney/device-pharmer<br />
+git clone https://github.com/DexPatcher/dexpatcher-tool<br />
+git clone https://github.com/philarkwright/DGA-Detection<br />
+git clone https://github.com/elceef/dhcpf<br />
+git clone https://github.com/kamorin/DHCPig<br />
+git clone https://github.com/misje/dhcpoptinj<br />
+git clone https://github.com/digination/dirbuster-ng<br />
+git clone https://github.com/hahwul/dirhunt<br />
+git clone https://github.com/maurosoria/dirsearch<br />
+git clone https://github.com/lorenzog/dns-parallel-prober<br />
+git clone https://github.com/StalkR/dns-reverse-proxy<br />
+git clone https://github.com/maurotfilho/dns-spoof<br />
+git clone https://github.com/d4rkcat/dnsbrute<br />
+git clone https://github.com/leonjza/dnsfilexfer<br />
+git clone https://github.com/darkoperator/dnsrecon<br />
+git clone https://github.com/evilsocket/dnssearch<br />
+git clone https://github.com/m57/dnsteal<br />
+git clone https://github.com/elceef/dnstwist<br />
+git clone https://github.com/cr0hn/dockerscan<br />
+git clone https://github.com/MarkBaggett/domain_stats<br />
+git clone https://github.com/coldfusion39/domi-owned<br />
+git clone https://github.com/wireghoul/doona<br />
+git clone https://github.com/AeonDave/doork<br />
+git clone https://github.com/CoalfireLabs/crackHOR<br />
+git clone https://github.com/utiso/dorkbot<br />
+git clone https://github.com/NullArray/DorkNet<br />
+git clone https://github.com/insaneisnotfree/Blue-Sky-Information-Security<br />
+git clone https://github.com/ucsb-seclab/dr_checker<br />
+git clone https://github.com/D4Vinci/Dr0p1t-Framework<br />
+git clone https://github.com/screetsec/Dracnmap<br />
+git clone https://github.com/Shellntel/backdoors<br />
+git clone https://github.com/emptymonkey/drinkme<br />
+git clone https://github.com/dripcap/dripcap<br />
+git clone https://github.com/droope/droopescan<br />
+git clone https://github.com/mwrlabs/drozer<br />
+git clone https://github.com/Tethik/drupal-module-enumeration<br />
+git clone https://github.com/immunIT/drupwn<br />
+git clone https://github.com/dlang-community/D-Scanner<br />
+git clone https://github.com/szechyjs/dsd<br />
+git clone https://github.com/stamparm/DSFS<br />
+git clone https://github.com/stamparm/DSJS<br />
+git clone https://github.com/stamparm/DSSS<br />
+git clone https://github.com/stamparm/DSXS<br />
+git clone https://github.com/fleetcaptain/dtp-spoof<br />
+git clone https://github.com/furface/dudley<br />
+git clone https://github.com/0verl0ad/Dumb0<br />
+git clone https://github.com/MalcolmRobb/dump1090<br />
+git clone https://github.com/dungtv543/Dutas<br />
+git clone https://github.com/kost/dvcs-ripper<br />
+git clone https://github.com/securestate/eapeak<br />
+git clone https://github.com/s0lst1c3/eaphammer<br />
+git clone https://github.com/brav0hax/easy-creds<br />
+git clone https://github.com/nccgroup/easyda<br />
+git clone https://github.com/elfmaster/ecfs<br />
+git clone https://github.com/jacob-baines/elfparser<br />
+git clone https://github.com/DeveloppSoft/EliDecode<br />
+git clone https://github.com/DanMcInerney/elite-proxy-finder<br />
+git clone https://github.com/cr0hn/enteletaor<br />
+git clone https://github.com/dejanlevaja/enum_shares<br />
+git clone https://github.com/Gilks/enumerid<br />
+git clone https://github.com/thorkill/eresi<br />
+git clone https://github.com/peterpt/eternal_scanner<br />
+git clone http://ettercap.github.com/ettercap/<br />
+git clone https://github.com/kgretzky/evilginx<br />
+git clone https://github.com/yarox24/evtkit<br />
+git clone https://github.com/Exa-Networks/exabgp<br />
+git clone https://github.com/OsandaMalith/Exe2Image<br />
+git clone https://github.com/cysinfo/Exescan<br />
+git clone https://github.com/NullHypothesis/exitmap<br />
+git clone https://github.com/tr3w/ExpImp-Lookup<br />
+git clone https://github.com/juansacco/exploitpack<br />
+git clone https://github.com/asciimoo/exrex<br />
+git clone https://github.com/bwall/ExtractHosts<br />
+git clone https://github.com/ChrisTruncer/EyeWitness<br />
+git clone https://github.com/ysrc/F-Scrack<br />
+git clone https://github.com/pun1sh3r/facebot<br />
+git clone https://github.com/PowerScript/facebrok<br />
+git clone https://github.com/emerinohdz/FaceBrute<br />
+git clone https://github.com/Crypt0s/FakeDns<br />
+git clone https://github.com/fireeye/flare-fakenet-ng<br />
+git clone https://github.com/mubix/FakeNetBIOS<br />
+git clone https://github.com/evilsocket/fang<br />
+git clone https://github.com/chinoogawa/fbht-linux<br />
+git clone https://github.com/guelfoweb/fbid<br />
+git clone https://github.com/nccgroup/featherduster<br />
+git clone https://github.com/fesh0r/fernflower<br />
+git clone https://github.com/stealth/fernmelder<br />
+git clone https://github.com/sfan5/fi6s<br />
+git clone https://github.com/henshin/filebuster<br />
+git clone https://github.com/keithjjones/fileintel<br />
+git clone https://github.com/subinacls/Filibuster<br />
+git clone https://github.com/manwhoami/findmyiphone<br />
+git clone https://github.com/1N3/findsploit<br />
+git clone https://github.com/BishopFox/firecat<br />
+git clone https://github.com/mazen160/Firefox-Security-Toolkit<br />
+git clone https://github.com/craigz28/firmwalker<br />
+git clone https://github.com/nccgroup/firstexecution<br />
+git clone https://github.com/fireeye/flare-floss<br />
+git clone https://github.com/galkan/flashlight<br />
+git clone https://github.com/riusksk/FlashScanner<br />
+git clone https://github.com/7h3rAm/flowinspect<br />
+git clone https://github.com/FluxionNetwork/fluxion<br />
+git clone https://github.com/byt3smith/Forager<br />
+git clone https://github.com/ALSchwalm/foresight<br />
+git clone https://github.com/Owlz/formatStringExploiter<br />
+git clone https://github.com/kirei/fpdns<br />
+git clone https://github.com/stealth/fraud-bridge<br />
+git clone https://github.com/kylemcdonald/FreeWifi<br />
+git clone https://github.com/Nightbringer21/fridump<br />
+git clone https://github.com/nccgroup/FrisbeeLite<br />
+git clone https://github.com/miaouPlop/fs<br />
+git clone https://github.com/adtac/fssb<br />
+git clone https://github.com/RubenRocha/ftpscout<br />
+git clone https://github.com/k0retux/fuddly<br />
+git clone https://github.com/almandin/fuxploider<br />
+git clone https://github.com/lostincynicism/FuzzAP<br />
+git clone https://github.com/fuzzdb-project/fuzzdb<br />
+git clone https://github.com/twelvesec/gasmask<br />
+git clone https://github.com/michaeltelford/gatecrasher<br />
+git clone https://github.com/byt3bl33d3r/gcat<br />
+git clone https://github.com/cs01/gdbgui<br />
+git clone https://github.com/hugsy/gef<br />
+git clone https://github.com/TigerSecurity<br />
+git clone https://github.com/vulnersCom/getsploit<br />
+git clone http://jeanphix.github.com/Ghost.py/<br />
+git clone https://github.com/mschwager/gitem<br />
+git clone https://github.com/lijiejie/githack<br />
+git clone https://github.com/mazen160/GithubCloner<br />
+git clone https://github.com/zricethezav/gitleaks<br />
+git clone https://github.com/giovanifss/gitmails<br />
+git clone https://github.com/danilovazb/GitMiner<br />
+git clone https://github.com/internetwache/GitTools<br />
+git clone https://github.com/joshDelta/Gloom-Framework<br />
+git clone https://github.com/OWASP/glue<br />
+git clone https://github.com/razc411/GoBD<br />
+git clone https://github.com/OJ/gobuster<br />
+git clone https://github.com/NetSPI/goddi<br />
+git clone https://github.com/jseidl/GoldenEye<br />
+git clone https://github.com/golismero/golismero<br />
+git clone https://github.com/anarcoder/google_explorer<br />
+git clone https://github.com/zombiesam/googlesub<br />
+git clone https://github.com/1N3/Goohak<br />
+git clone https://github.com/Nhoya/gOSINT<br />
+git clone https://github.com/osqzss/gps-sdr-sim<br />
+git clone https://github.com/black-brain/graBing<br />
+git clone https://github.com/trailofbits/grr<br />
+git clone https://github.com/summerwind/h2spec<br />
+git clone https://github.com/portantier/habu<br />
+git clone https://github.com/Ridter/hackredis<br />
+git clone https://github.com/mossmann/hackrf<br />
+git clone https://github.com/haka-security/haka<br />
+git clone https://github.com/4shadoww/hakkuframework<br />
+git clone https://github.com/Rich5/Harness<br />
+git clone https://github.com/galkan/hasere<br />
+git clone https://github.com/UltimateHackers/Hash-Buster/<br />
+git clone https://github.com/iagox86/hash_extender<br />
+git clone https://github.com/hashcat/hashcat-utils<br />
+git clone https://github.com/NPS-DEEP/hashdb/<br />
+git clone https://github.com/ChrisTruncer/Hasher<br />
+git clone https://github.com/rurapenthe/hashfind<br />
+git clone https://github.com/psypanda/hashID<br />
+git clone https://github.com/bwall/HashPump<br />
+git clone https://github.com/SmeegeSec/HashTag<br />
+git clone https://github.com/HatBashBR/HatCloud<br />
+git clone https://github.com/trustedsec/hate_crack<br />
+git clone https://github.com/trolldbois/python-haystack<br />
+git clone https://github.com/ZerBea/hcxtools<br />
+git clone https://github.com/rjw57/hdcp-genkey<br />
+git clone https://github.com/ApertureLabsLtd/hdmi-sniff<br />
+git clone https://github.com/robertdavidgraham/heartleech<br />
+git clone https://github.com/ytisf/hemingway<br />
+git clone https://github.com/EgeBalci/HERCULES<br />
+git clone https://github.com/stephenbradshaw/hlextend<br />
+git clone https://github.com/nccgroup/hodor<br />
+git clone https://github.com/DataSoft/Honeyd/<br />
+git clone https://github.com/foospidy/HoneyPy<br />
+git clone https://github.com/xme/hoover/<br />
+git clone https://github.com/gabamnml/hoper<br />
+git clone https://github.com/OpenSecurityResearch/hostapd-wpe<br />
+git clone https://github.com/schollz/howmanypeoplearearound<br />
+git clone https://github.com/rep/hpfeeds<br />
+git clone https://github.com/PaulSec/HQLmap<br />
+git clone https://github.com/riramar/hsecscan<br />
+git clone https://github.com/segment-srl/htcap<br />
+git clone https://github.com/lijiejie/htpwdScan<br />
+git clone https://github.com/lkarsten/htrosbif<br />
+git clone https://github.com/wireghoul/htshells<br />
+git clone https://github.com/Danladi/git clone httpPwnly<br />
+git clone https://github.com/breenmachine/git clone httpscreenshot<br />
+git clone https://github.com/cthit/hubbIT-sniffer<br />
+git clone https://github.com/grafov/hulk<br />
+git clone https://github.com/nbuechler/hungry-interceptor<br />
+git clone https://github.com/CoolerVoid/Hyde<br />
+git clone https://github.com/xiam/hyperfox<br />
+git clone https://github.com/hackappcom/ibrute/<br />
+git clone https://github.com/m4ll0k/iCloudBrutter<br />
+git clone https://github.com/inquisb/icmpsh<br />
+git clone https://github.com/BillyV4/ID-entify<br />
+git clone https://github.com/lijiejie/IIS_shortname_Scanner<br />
+git clone https://github.com/coderofsalvation/imagegrep-bash<br />
+git clone https://github.com/jklmnn/imagejs<br />
+git clone https://github.com/ralphje/imagemounter<br />
+git clone https://github.com/m4ll0k/infoga<br />
+git clone https://github.com/penafieljlm/inquisitor<br />
+git clone https://github.com/4w4k3/Insanity-Framework<br />
+git clone https://github.com/thelinuxchoice/instashell<br />
+git clone https://github.com/carmaa/interrogate<br />
+git clone https://github.com/ohdae/Intersect.5<br />
+git clone https://github.com/Flo354/iOSForensic<br />
+git clone https://github.com/takeshixx/ip-git clone https-tools<br />
+git clone https://github.com/AnarchyAngel/IPMIPWN<br />
+git clone https://github.com/OsandaMalith/IPObfuscator<br />
+git clone https://github.com/Hackplayers/iptodomain<br />
+git clone https://github.com/Pinperepette/IPTV<br />
+git clone https://github.com/milo2012/ipv4Bypass<br />
+git clone https://github.com/bwall/ircsnapshot<br />
+git clone https://github.com/dark-lbp/isf<br />
+git clone https://github.com/halitalptekin/isip<br />
+git clone https://github.com/juphoff/issniff<br />
+git clone https://github.com/flankerhqd/JAADAS/<br />
+git clone https://github.com/skylot/jadx<br />
+git clone https://github.com/stasinopoulos/jaidam<br />
+git clone https://github.com/SpiderLabs/jboss-autopwn<br />
+git clone https://github.com/SideChannelMarvels/JeanGrey<br />
+git clone https://github.com/joaomatosf/jexboss<br />
+git clone https://github.com/rastating/jooforce<br />
+git clone https://github.com/rastating/joomlavs<br />
+git clone https://github.com/jindrapetrik/jpexs-decompiler<br />
+git clone https://github.com/ron190/jsql-injection<br />
+git clone https://github.com/mindedsecurity/JStillery<br />
+git clone https://github.com/securactive/junkie<br />
+git clone https://github.com/katjahahn/JWScan<br />
+git clone https://github.com/brendan-rius/c-jwt-cracker<br />
+git clone https://github.com/galkan/kacak<br />
+git clone https://github.com/P0cL4bs/Kadimus<br />
+git clone https://github.com/steve-m/kalibrate-rtl<br />
+git clone https://github.com/samratashok/Kautilya/releases<br />
+git clone https://github.com/gentilkiwi/kekeo<br />
+git clone https://github.com/spencerdodd/kernelpop<br />
+git clone https://github.com/k4m4/kickthemout<br />
+git clone https://github.com/ChaitanyaHaritash/kimi<br />
+git clone https://github.com/desaster/kippo<br />
+git clone https://github.com/cisco-sas/kitty<br />
+git clone https://github.com/guelfoweb/knock<br />
+git clone https://github.com/ernw/knxmap<br />
+git clone https://github.com/zerosum0x0/koadic<br />
+git clone https://github.com/roissy/l0l<br />
+git clone https://github.com/takeshixx/laf<br />
+git clone http://github.com/rflynn/lanmap2<br />
+git clone https://github.com/DanMcInerney/LANs.py<br />
+git clone https://github.com/AlessandroZ/LaZagne<br />
+git clone https://github.com/wireghoul/lbmap<br />
+git clone https://github.com/sduverger/ld-shatner<br />
+git clone https://github.com/droope/ldap-brute<br />
+git clone https://github.com/captainhooligan/Leroy-Jenkins<br />
+git clone https://github.com/onthefrontline/LetMeFuckIt-Scanner<br />
+git clone https://github.com/leviathan-framework/leviathan<br />
+git clone https://github.com/galkan/levye<br />
+git clone https://github.com/OsandaMalith/LFiFreak/<br />
+git clone https://github.com/aepereyra/lfimap/<br />
+git clone https://github.com/D35m0nd142/LFISuite<br />
+git clone https://github.com/williballenthin/LfLe<br />
+git clone https://github.com/blindfuzzy/LHF<br />
+git clone https://github.com/libyal/libbde<br />
+git clone https://github.com/rotlogix/liffy<br />
+git clone https://github.com/lightbulb-framework/lightbulb-framework<br />
+git clone https://github.com/kd8bny/LiMEaide<br />
+git clone https://github.com/rebootuser/LinEnum<br />
+git clone https://github.com/vk496/linset<br />
+git clone https://github.com/PenturaLabs/Linux_Exploit_Suggester<br />
+git clone https://github.com/mzet-/linux-exploit-suggester<br />
+git clone https://github.com/ant4g0nist/lisa.py<br />
+git clone https://github.com/taviso/loadlibrary<br />
+git clone https://github.com/lightfaith/locasploit<br />
+git clone https://github.com/NewEraCracker/LOIC<br />
+git clone https://github.com/api0cradle/LOLBAS<br />
+git clone https://github.com/GuerrillaWarfare/Loot<br />
+git clone https://github.com/jensvoid/lorg<br />
+git clone https://github.com/Evrytania/LTE-Cell-Scanner<br />
+git clone https://github.com/lateralblast/lunar<br />
+git clone https://github.com/deathmarine/Luyten<br />
+git clone https://github.com/HurricaneLabs/machinae<br />
+git clone https://github.com/paraxor/maclookup<br />
+git clone https://github.com/steverobbins/magescan<br />
+git clone https://raw.githubusercontent.com/galkan/tools/master/mail-crawl/<br />
+git clone https://github.com/tomchop/malcom<br />
+git clone https://github.com/Ice3man543/MalScan<br />
+git clone https://github.com/stamparm/maltrail<br />
+git clone https://github.com/technoskald/maltrieve<br />
+git clone https://github.com/sensepost/mana<br />
+git clone https://github.com/z0noxz/mando.me<br />
+git clone https://github.com/xtiankisutsa/MARA_Framework<br />
+git clone https://github.com/ApertureLabsLtd/marc4dasm<br />
+git clone https://github.com/black-brain/maryam<br />
+git clone https://github.com/1N3/Sn1per<br />
+git clone https://github.com/robertdavidgraham/masscan<br />
+git clone https://github.com/trevordavenport/MasscanAutomation<br />
+git clone https://github.com/blechschmidt/massdns<br />
+git clone https://github.com/jm33-m0/massExpConsole<br />
+git clone https://github.com/fgrimme/Matroschka<br />
+git clone https://github.com/chadillac/mdns_recon<br />
+git clone https://github.com/a0rtega/metame<br />
+git clone https://github.com/trustedsec/meterssh<br />
+git clone https://github.com/kost/mikrotik-npk<br />
+git clone https://github.com/gentilkiwi/mimikatz<br />
+git clone https://github.com/huntergregal/mimipenguin<br />
+git clone https://github.com/kamalmostafa/minimodem<br />
+git clone https://github.com/xdavidhu/mitmAP<br />
+git clone https://github.com/husam212/MITMer<br />
+git clone https://github.com/byt3bl33d3r/MITMf<br />
+git clone http://mkbrutusproject.github.io/MKBRUTUS/<br />
+git clone https://github.com/ajinabraham/Mobile-Security-Framework-MobSF<br />
+git clone https://github.com/aol/moloch<br />
+git clone https://github.com/stampery/mongoaudit<br />
+git clone https://github.com/vortexau/mooscan<br />
+git clone https://github.com/r00txp10it/morpheus<br />
+git clone https://github.com/CoolerVoid/Mosca<br />
+git clone https://github.com/koto/mosquito<br />
+git clone https://github.com/kevinkoo001/MotS<br />
+git clone https://github.com/waytoalpit/ManOnTheSideAttack-DNS-Spoofing<br />
+git clone https://github.com/iamckn/mousejack_transmit<br />
+git clone https://github.com/Neohapsis/mptcp-abuse<br />
+git clone https://github.com/meliht/mr.sip<br />
+git clone https://github.com/YoshiyukiYamauchi/mrtparse<br />
+git clone https://github.com/g0tmi1k/mpc<br />
+git clone https://github.com/wez3/msfenum<br />
+git clone https://github.com/EliasOenal/multimon-ng<br />
+git clone https://github.com/mitre/multiscanner<br />
+git clone https://github.com/covertcodes/multitun<br />
+git clone https://github.com/falcon-lnhg/mwebfp<br />
+git clone https://github.com/MooseDojo/myBFF<br />
+git clone https://github.com/mehrdadrad/mylg<br />
+git clone https://gist.github.com/esperlu/943776<br />
+git clone https://github.com/carmaa/nacker<br />
+git clone https://github.com/tcstool/nasnum.git<br />
+git clone https://github.com/PentesterES/Necromant<br />
+git clone https://github.com/mwrlabs/needle<br />
+git clone https://github.com/GuerrillaWarfare/neglected<br />
+git clone https://github.com/PherricOxide/Neighbor-Cache-Fingerprinter<br />
+git clone https://github.com/troglobit/nemesis<br />
+git clone https://github.com/DanMcInerney/net-creds<br />
+git clone https://github.com/chrizator/netattack2<br />
+git clone https://github.com/evilsocket/netcommander<br />
+git clone https://github.com/NytroRST/NetRipper<br />
+git clone https://github.com/walchko/netscan2<br />
+git clone https://github.com/PherricOxide/Network-App-Stress-Tester<br />
+git clone https://github.com/lorenzog/NetworkMap<br />
+git clone https://github.com/hdm/nextnet<br />
+git clone https://github.com/bonsaiviking/NfSpy<br />
+git clone https://github.com/jpr5/ngrep/<br />
+git clone https://github.com/sullo/nikto<br />
+git clone https://github.com/niloofarkheirkhah/nili<br />
+git clone https://github.com/andresriancho/nimbostratus<br />
+git clone https://github.com/GouveaHeitor/nipe<br />
+git clone https://github.com/flipchan/Nohidy<br />
+git clone https://github.com/hiddenillusion/NoMoreXOR<br />
+git clone https://github.com/Rurik/Noriben<br />
+git clone https://github.com/youngyangyang04/NoSQLAttack<br />
+git clone https://github.com/tcstool/NoSQLMap.git<br />
+git clone https://github.com/chrisallenlane/novahot<br />
+git clone https://github.com/JKO/nsearch<br />
+git clone https://github.com/anonion0/nsec3map<br />
+git clone https://github.com/csababarta/ntdsxtract<br />
+git clone https://github.com/vpnguy/ntpdos<br />
+git clone https://github.com/m8r0wn/nullinux<br />
+git clone https://github.com/BL4CKvGHOST/Ob3vil1on<br />
+git clone https://github.com/wetw0rk/objdump2shellcode<br />
+git clone https://github.com/amlight/ofp_sniffer<br />
+git clone https://github.com/RUB-SysSec/OMEN<br />
+git clone https://github.com/InQuest/omnibus<br />
+git clone https://github.com/Miserlou/omnihash<br />
+git clone https://github.com/k4m4/onioff<br />
+git clone https://github.com/micahflee/onionshare/<br />
+git clone https://github.com/stanislav-web/OpenDoor<br />
+git clone https://github.com/regit/opensvp<br />
+git clone https://github.com/graniet/operative-framework<br />
+git clone https://github.com/SharadKumar97/OSINT-SPY<br />
+git clone https://github.com/guitarmanj/OSINTerator<br />
+git clone https://github.com/i3visio/osrframework<br />
+git clone https://github.com/c0r3dump3d/osueta<br />
+git clone https://github.com/lijiejie/OutLook_WebAPP_Brute<br />
+git clone https://github.com/depasonico/OWASP-ByWaf<br />
+git clone https://github.com/zscproject/OWASP-ZSC<br />
+git clone https://github.com/hashicorp/packer<br />
+git clone https://github.com/DNS-OARC/PacketQ<br />
+git clone https://github.com/dannagle/PacketSender<br />
+git clone https://github.com/bniemczyk/pacumen<br />
+git clone https://github.com/Dionach/PANhunt<br />
+git clone https://github.com/lightos/Panoptic<br />
+git clone https://github.com/roglew/pappy-proxy<br />
+git clone https://github.com/mak-/parameth<br />
+git clone https://github.com/KasperskyLab/ForensicsTools<br />
+git clone https://github.com/behindthefirewalls/Parsero<br />
+git clone http://github.com/jensp/passcracking<br />
+git clone https://github.com/Dionach/PassHunt<br />
+git clone https://github.com/gamelinux/passivedns<br />
+git clone https://github.com/isaudits/pasv-agrsv<br />
+git clone https://github.com/lanjelot/patator<br />
+git clone https://github.com/lunixbochs/patchkit<br />
+git clone https://github.com/ShotokanZH/Pa-th-zuzu<br />
+git clone https://github.com/CoolerVoid/payloadmask<br />
+git clone https://github.com/vikwin/pcapfex<br />
+git clone https://github.com/Srinivas11789/PcapXray<br />
+git clone https://github.com/lgandx/PCredz<br />
+git clone https://github.com/Caleb1994/peach<br />
+git clone https://github.com/longld/peda<br />
+git clone https://github.com/guelfoweb/peframe<br />
+git clone https://github.com/robertdavidgraham/pemcrack<br />
+git clone https://github.com/bwall/pemcracker.git<br />
+git clone https://github.com/x3omdax/PenBox<br />
+git clone https://github.com/praetorian-inc/pentestly<br />
+git clone https://github.com/GinjaChris/pentmenu<br />
+git clone https://github.com/petoolse/petools<br />
+git clone https://github.com/facebook/pfff<br />
+git clone https://github.com/idiom/pftriage<br />
+git clone https://github.com/kstrauser/pgdbf<br />
+git clone https://github.com/Dionach/PhEmail<br />
+git clone https://github.com/ryhanson/phishery<br />
+git clone https://github.com/t4d/PhishingKitHunter<br />
+git clone https://github.com/s0md3v/Photon<br />
+git clone https://github.com/pentestmonkey/php-findsock-shell<br />
+git clone https://github.com/bwall/PHP-RFI-Payload-Decoder<br />
+git clone https://github.com/nil0x42/phpsploit<br />
+git clone https://github.com/nightlionsecurity/phpstress<br />
+git clone https://github.com/WiPi-Hunter/PiDense<br />
+git clone https://github.com/wagiro/pintool<br />
+git clone https://github.com/sebastiendamaye/pintool2<br />
+git clone https://github.com/nccgroup/pip3line<br />
+git clone https://github.com/hirnschallsebastian/Pipeline2<br />
+git clone https://github.com/FireyFly/pixd<br />
+git clone https://github.com/wiire/pixiewps<br />
+git clone https://github.com/caesar0301/pkt2flow<br />
+git clone https://github.com/joelpx/plasma<br />
+git clone https://github.com/iniqua/plecost<br />
+git clone https://github.com/unweb/plown<br />
+git clone https://github.com/cybereason/linux_plumber<br />
+git clone https://github.com/pmacct/pmacct<br />
+git clone https://github.com/nccgroup/PMapper<br />
+git clone https://github.com/knownsec/Pocsuite<br />
+git clone https://github.com/rfunix/Pompem<br />
+git clone https://github.com/iagox86/poracle<br />
+git clone https://github.com/SpiderLabs/portia<br />
+git clone https://github.com/fdiskyou/PowerOPS<br />
+git clone https://github.com/mattifestation/PowerSploit<br />
+git clone https://github.com/z0noxz/powerstager<br />
+git clone https://github.com/n1nj4sec/pr0cks<br />
+git clone http://gamelinux.github.io/prads/<br />
+git clone https://github.com/percx/Praeda<br />
+git clone https://github.com/RUB-NDS/PRET<br />
+git clone https://github.com/jsteube/princeprocessor/<br />
+git clone https://github.com/Microsoft/ProcDump-for-Linux<br />
+git clone https://github.com/daniel-araujo/proctal<br />
+git clone https://github.com/HSASec/ProFuzz<br />
+git clone https://github.com/averagesecurityguy/prometheus<br />
+git clone https://github.com/alfresco/prowler<br />
+git clone https://github.com/hugsy/proxenet<br />
+git clone https://github.com/Proxmark/proxmark3<br />
+git clone https://github.com/rofl0r/proxychains<br />
+git clone https://github.com/CroweCybersecurity/ps1encode<br />
+git clone https://github.com/regit/pshitt<br />
+git clone https://github.com/trustedsec/ptf<br />
+git clone https://github.com/byt3bl33d3r/pth-toolkit<br />
+git clone https://github.com/shirkdog/pulledpork<br />
+git clone https://github.com/hgascon/pulsar<br />
+git clone https://github.com/nethunteros/punter<br />
+git clone https://github.com/tch1001/pwdlogy<br />
+git clone https://github.com/ins1gn1a/pwdlyser<br />
+git clone https://github.com/pwndbg/pwndbg<br />
+git clone https://github.com/wKovacs64/pwned<br />
+git clone https://github.com/h0ussni/pwnloris<br />
+git clone https://github.com/Gallopsled/pwntools<br />
+git clone https://github.com/ikkebr/PyBozoCrack<br />
+git clone https://github.com/LandGrey/pydictor<br />
+git clone https://github.com/nottinghamprisateam/pyersinia<br />
+git clone https://github.com/ytisf/PyExfil<br />
+git clone https://github.com/fgeek/pyfiscan<br />
+git clone https://github.com/mseclab/PyJFuzz<br />
+git clone https://github.com/bidord/pykek<br />
+git clone https://github.com/JPaulMora/Pyrit<br />
+git clone https://github.com/moheshmohan/pyssltest<br />
+git clone https://github.com/m4n3dw0lf/PytheM<br />
+git clone https://github.com/beautify-web/js-beautify<br />
+git clone https://github.com/JustinAzoff/python-cymruwhois<br />
+git clone http://github.com/achillean/shodan-python<br />
+git clone https://github.com/VirusTotal/yara-python<br />
+git clone https://github.com/beautify-web/js-beautify<br />
+git clone https://github.com/VirusTotal/yara-python<br />
+git clone https://github.com/linkedin/qark<br />
+git clone https://github.com/tylabs/quicksand_lite<br />
+git clone https://github.com/radareorg/cutter<br />
+git clone https://github.com/radare/radare2-extras/tree/master/unicorn<br />
+git clone https://github.com/funkandwagnalls/ranger<br />
+git clone https://github.com/0x09AL/raven<br />
+git clone https://github.com/taviso/rbndr<br />
+git clone https://github.com/t6x/reaver-wps-fork-t6x<br />
+git clone https://github.com/codingo/Reconnoitre<br />
+git clone https://github.com/RoliSoft/ReconScan<br />
+git clone https://github.com/Lazza/RecuperaBit<br />
+git clone https://github.com/Tuhinshubhra/RED_HAWK<br />
+git clone https://github.com/digitalbond/Redpoint3<br />
+git clone https://github.com/darkk/redsocks<br />
+git clone https://github.com/fireeye/ReelPhish<br />
+git clone https://github.com/sensepost/reGeorg<br />
+git clone https://github.com/SpiderLabs/Responder/<br />
+git clone https://github.com/lgandx/Responder<br />
+git clone https://github.com/lolwaleet/ReverseIP<br />
+git clone https://github.com/PypeRanger/revipd<br />
+git clone https://github.com/emptymonkey/revsh/<br />
+git clone https://github.com/shellphish/rex<br />
+git clone https://github.com/j91321/rext<br />
+git clone https://github.com/trustedsec/ridenum<br />
+git clone https://github.com/graniet/riwifshell<br />
+git clone https://github.com/sashs/Ropper<br />
+git clone https://github.com/inaz2/roputils<br />
+git clone https://github.com/jh00nbr/Routerhunter.0<br />
+git clone https://github.com/reverse-shell/routersploit<br />
+git clone https://github.com/0vercl0k/rp<br />
+git clone https://github.com/AdiKo/RPCSniffer<br />
+git clone https://github.com/freakyclown/RPDscan<br />
+git clone https://github.com/artkond/rpivot<br />
+git clone https://github.com/mozilla/rr<br />
+git clone https://github.com/Ganapati/RsaCtfTool<br />
+git clone https://github.com/ius/rsatool<br />
+git clone https://github.com/panagiks/RSPET<br />
+git clone https://github.com/leostat/rtfm<br />
+git clone https://github.com/bemasher/rtlamr/<br />
+git clone https://github.com/csete/rtlizer<br />
+git clone https://github.com/EarToEarOak/RTLSDR-Scanner<br />
+git clone https://github.com/sensepost/ruler<br />
+git clone https://github.com/petermbenjamin/s3-fuzzer<br />
+git clone https://github.com/sa7mon/S3Scanner<br />
+git clone https://github.com/sleinen/samplicator<br />
+git clone http://github.com/jensp/samydeluxe<br />
+git clone https://github.com/xoreaxeaxeax/sandsifter<br />
+git clone https://github.com/donctl/sandy<br />
+git clone https://github.com/elfmaster/saruman<br />
+git clone https://github.com/Dman95/SASM<br />
+git clone https://github.com/danilovazb/sawef<br />
+git clone https://github.com/levi0x0/sb0x-project<br />
+git clone https://github.com/t00sh/sc-make<br />
+git clone https://github.com/vesche/scanless<br />
+git clone https://github.com/scanmem/scanmem<br />
+git clone https://github.com/kudelskisecurity/scannerl<br />
+git clone https://github.com/huntergregal/scansploit<br />
+git clone http://isecpartners.github.io/Scout2/<br />
+git clone https://github.com/304GEEK/Scrape-DNS<br />
+git clone https://github.com/pfalcon/ScratchABit<br />
+git clone https://github.com/smythtech/sdnpwn<br />
+git clone https://github.com/neuromancer/SEA<br />
+git clone https://github.com/b3mb4m/Search1337<br />
+git clone https://github.com/offensive-security/exploit-database<br />
+git clone https://github.com/galkan/sees/<br />
+git clone https://github.com/sensepost/xrdp<br />
+git clone https://github.com/darkoperator/dnsrecon<br />
+git clone https://github.com/NickstaDB/SerialBrute<br />
+git clone https://github.com/mazen160/server-status_PWN<br />
+git clone https://github.com/cr-marcstevens/sha1collisiondetection<br />
+git clone https://github.com/philwantsfish/shard<br />
+git clone https://github.com/CroweCybersecurity/shareenum<br />
+git clone https://github.com/shirosaidev/sharesniffer<br />
+git clone https://github.com/danielhenrymantilla/shellcode-factory<br />
+git clone https://github.com/merrychap/shellen<br />
+git clone https://github.com/shellinabox/shellinabox<br />
+git clone https://github.com/ewilded/shelling<br />
+git clone https://github.com/hatRiot/shellme<br />
+git clone https://github.com/reyammer/shellnoob<br />
+git clone https://github.com/b3mb4m/shellsploit-framework<br />
+git clone https://github.com/elfmaster/sherlocked<br />
+git clone https://github.com/acidvegas/shitflood<br />
+git clone https://github.com/nccgroup/shocker<br />
+git clone http://github.com/achillean/shodan-python<br />
+git clone https://github.com/HatBashBR/ShodanHat<br />
+git clone https://github.com/aploium/shootback<br />
+git clone https://github.com/wetw0rk/Sickle<br />
+git clone https://github.com/SigPloiter/SigPloit<br />
+git clone https://github.com/achorein/silenteye/<br />
+git clone https://github.com/lunarca/SimpleEmailSpoofer<br />
+git clone https://github.com/CalebFenton/simplify<br />
+git clone https://github.com/killswitch-GUI/SimplyEmail<br />
+git clone https://github.com/packetassailant/sipbrute<br />
+git clone https://github.com/xenomuta/SIPffer<br />
+git clone https://github.com/ST2Labs/SIPI<br />
+git clone https://github.com/Pepelux/sippts<br />
+git clone https://github.com/zaf/sipshock<br />
+git clone https://github.com/digininja/sitediff<br />
+git clone https://github.com/cryptcoffee/skul<br />
+git clone https://github.com/samyk/skyjack<br />
+git clone http://osandamalith.github.io/SkypeFreak/<br />
+git clone https://github.com/RhinoSecurityLabs/SleuthQL<br />
+git clone https://github.com/mfontanini/sloth-fuzzer<br />
+git clone https://github.com/gkbrk/slowloris<br />
+git clone https://github.com/bbb31/slurp<br />
+git clone https://github.com/JesusFreke/smali<br />
+git clone https://github.com/ch0psticks/Smali-CFGs<br />
+git clone https://github.com/dorneanu/smalisca<br />
+git clone https://github.com/suraj-root/smap<br />
+git clone https://github.com/georgiaw/Smartphone-Pentest-Framework<br />
+git clone https://github.com/Raikia/SMBCrunch<br />
+git clone https://github.com/pentestgeek/smbexec<br />
+git clone https://github.com/ShawnDEvans/smbmap<br />
+git clone https://github.com/T-S-A/smbspider<br />
+git clone https://github.com/smikims/arpspoof<br />
+git clone https://github.com/enddo/smod<br />
+git clone https://github.com/z0noxz/smplshllctrlr<br />
+git clone https://github.com/isaudits/smtp-test<br />
+git clone https://github.com/1N3/Sn1per<br />
+git clone https://github.com/hannob/snallygaster<br />
+git clone https://github.com/thebradbain/snapception<br />
+git clone https://github.com/purpleteam/snarf<br />
+git clone https://github.com/SkypLabs/sniff-probe-req<br />
+git clone https://github.com/julioreynaga/sniffer<br />
+git clone https://github.com/petabi/sniffles<br />
+git clone https://github.com/SECFORCE/SNMP-Brute<br />
+git clone https://github.com/m57/snoopbrute<br />
+git clone https://github.com/sensepost/snoopy-ng<br />
+git clone https://github.com/mauro-g/snuck<br />
+git clone https://github.com/Betawolf/social-vuln-scanner<br />
+git clone https://github.com/UndeadSec/SocialFish<br />
+git clone https://github.com/landw1re/socketfuzz<br />
+git clone https://github.com/Ganapati/spaf<br />
+git clone https://github.com/sensepost/SPartan<br />
+git clone https://github.com/tatanus/SPF<br />
+git clone https://github.com/BishopFox/spfmap<br />
+git clone https://github.com/getdual/scripts-n-tools/blob/master/spiga.py<br />
+git clone https://github.com/PaulSec/SPIPScan<br />
+git clone https://github.com/BlackArch/sploitctl<br />
+git clone https://github.com/allfro/sploitego<br />
+git clone https://github.com/bishopfox/spoofcheck<br />
+git clone https://github.com/Hadesy2k/sqlivulscan<br />
+git clone https://ssdeep-project.github.io/ssdeep/<br />
+git clone https://github.com/arthepsy/ssh-audit<br />
+git clone https://github.com/droberson/ssh-honeypot<br />
+git clone https://github.com/jtesta/ssh-mitm<br />
+git clone https://github.com/nccgroup/ssh-user-enum<br />
+git clone https://github.com/getdual/scripts-n-tools/blob/master/sshscan.py<br />
+git clone https://github.com/sshuttle/sshuttle<br />
+git clone https://github.com/zombiesam/ssl_phuck3r<br />
+git clone https://github.com/grwl/sslcaudit<br />
+git clone https://github.com/ssllabs/ssllabs-scan<br />
+git clone https://github.com/jtripper/sslnuke<br />
+git clone https://github.com/DinoTools/sslscan/<br />
+git clone https://github.com/nabla-c0d3/sslyze/<br />
+git clone https://github.com/secrary/SSMA<br />
+git clone https://github.com/bcoles/ssrf_proxy<br />
+git clone https://github.com/d4rkcat/stackflow<br />
+git clone https://github.com/j-t/staekka<br />
+git clone https://github.com/ipopov/starttls-mitm<br />
+git clone https://github.com/redNixon/stegdetect<br />
+git clone https://github.com/razc411/StegoLeggo<br />
+git clone https://github.com/epinna/Stegosip<br />
+git clone https://github.com/zardus/ctf-tools/blob/master/stegsolve/install<br />
+git clone https://github.com/google/stenographer<br />
+git clone https://github.com/ztgrace/sticky_keys_hunter<br />
+git clone https://github.com/UltimateHackers/Striker<br />
+git clone https://github.com/tintinweb/striptls<br />
+git clone https://github.com/riusksk/StrutScan<br />
+git clone https://github.com/TheRook/subbrute<br />
+git clone https://github.com/Ice3man543/subfinder<br />
+git clone https://github.com/OpenRCE/sulley/<br />
+git clone https://github.com/anantshri/svn-extractor<br />
+git clone https://github.com/sevagas/swap_digger<br />
+git clone https://github.com/Arvin-X/swarm<br />
+git clone https://github.com/dlrobertson/sylkie<br />
+git clone https://github.com/danigargu/syms2elf<br />
+git clone https://github.com/securestate/syringe<br />
+git clone https://github.com/ANSSI-FR/tabi<br />
+git clone https://github.com/delvelabs/tachyon<br />
+git clone https://github.com/0xdea/tactical-exploitation<br />
+git clone https://github.com/antagon/TCHunt-ng<br />
+git clone https://github.com/Octosec/tckfc<br />
+git clone https://github.com/session-replay-tools/tcpcopy<br />
+git clone https://github.com/netik/tcpdstat<br />
+git clone https://github.com/simsong/tcpflow<br />
+git clone https://github.com/1aN0rmus/TekDefense-Automater<br />
+git clone https://github.com/drwetter/testssl.sh<br />
+git clone https://github.com/droberson/thefuzz<br />
+git clone https://github.com/ytisf/theZoo<br />
+git clone https://github.com/AeonDave/tilt<br />
+git clone https://github.com/technoskald/tinfoleak/<br />
+git clone https://github.com/RUB-NDS/TLS-Attacker<br />
+git clone https://github.com/LeeBrotherston/tls-fingerprinting<br />
+git clone https://github.com/WestpointLtd/tls_prober<br />
+git clone https://github.com/Ayrx/tlsenum<br />
+git clone https://github.com/iSECPartners/tlspretense<br />
+git clone https://github.com/mgeeky/tomcatWarDeployer<br />
+git clone https://github.com/toperaproject/topera<br />
+git clone https://github.com/epinna/tplmap<br />
+git clone https://github.com/GuerrillaWarfare/Treasure<br />
+git clone https://github.com/JonathanSalwan/Triton<br />
+git clone https://github.com/trizen/trizen<br />
+git clone https://github.com/adoreste/truehunter<br />
+git clone https://github.com/dxa4481/truffleHog<br />
+git clone https://github.com/mandatoryprogrammer/TrustTrees<br />
+git clone https://github.com/infodox/tsh-sctp<br />
+git clone https://github.com/SECFORCE/Tunna<br />
+git clone https://github.com/a-atalla/tuxcut.git<br />
+git clone https://github.com/x0rz/tweets_analyzer<br />
+git clone https://github.com/whoot/Typo-Enumerator<br />
+git clone https://github.com/hfiref0x/UACME<br />
+git clone https://github.com/greatscottgadgets/ubertooth/releases<br />
+git clone https://github.com/headlesszeke/ubiquiti-probing<br />
+git clone https://github.com/wangyu-/udp2raw-tunnel<br />
+git clone https://github.com/Hello71/udpastcp<br />
+git clone https://github.com/zombieCraig/UDSim/<br />
+git clone https://github.com/theopolis/uefi-firmware-parser<br />
+git clone https://github.com/epsylon/ufonet<br />
+git clone https://github.com/nccgroup/umap<br />
+git clone https://github.com/GDSSecurity/Unibrute<br />
+git clone https://github.com/trustedsec/unicorn<br />
+git clone https://github.com/pzread/unstrip<br />
+git clone https://github.com/altf4/untwister<br />
+git clone https://github.com/nccgroup/UPnP-Pentest-Toolkit<br />
+git clone https://github.com/ferrery1/UpPwn<br />
+git clone https://github.com/jopohl/urh<br />
+git clone https://github.com/jseidl/usernamer<br />
+git clone https://github.com/v3n0m-Scanner/V3n0M-Scanner<br />
+git clone https://github.com/hahwul/vais<br />
+git clone https://github.com/delvelabs/vane<br />
+git clone https://github.com/nccgroup/vbrute<br />
+git clone https://github.com/rezasp/vbscan<br />
+git clone https://github.com/melvinsh/vcsmap<br />
+git clone https://github.com/subgraph/Vega/wiki<br />
+git clone https://github.com/Veil-Framework/Veil<br />
+git clone https://github.com/codingo/VHostScan<br />
+git clone https://github.com/botherder/viper<br />
+git clone https://github.com/botherder/virustotal<br />
+git clone https://github.com/blackvkng/viSQL<br />
+git clone https://github.com/nccgroup/vlan-hopping<br />
+git clone https://github.com/git-rep/vmap<br />
+git clone https://github.com/jbremer/vmcloak<br />
+git clone https://github.com/n0fate/volafox<br />
+git clone https://github.com/volatilityfoundation/volatility/wiki<br />
+git clone https://github.com/snare/voltron<br />
+git clone https://github.com/0x36/VPNPivot<br />
+git clone https://github.com/sanvil/vsaudit<br />
+git clone https://github.com/pasjtene/Vscan<br />
+git clone https://github.com/varunjammula/VSVBP<br />
+git clone https://github.com/muhammad-bouabid/Vulnerabilities-spider<br />
+git clone https://github.com/future-architect/vuls<br />
+git clone https://github.com/sandrogauci/wafw00f<br />
+git clone https://github.com/khalilbijjou/WAFNinja<br />
+git clone https://github.com/wafpassproject/wafpass<br />
+git clone https://github.com/SYWorks/waidps<br />
+git clone https://github.com/red-team-labs/waldo<br />
+git clone https://github.com/m4ll0k/WAScan<br />
+git clone https://github.com/uoaerg/wavemon<br />
+git clone https://github.com/jsvine/waybackpack<br />
+git clone https://github.com/endrazine/wcc<br />
+git clone https://github.com/Matir/webborer<br />
+git clone https://github.com/AutoSecTools/WebExploitationTool<br />
+git clone https://github.com/takeshixx/webfixy<br />
+git clone https://github.com/lnxg33k/webhandler<br />
+git clone https://github.com/peedcorp/WebHunter<br />
+git clone https://github.com/zigoo0/webpwn3r<br />
+git clone https://github.com/BlackArch/webrute<br />
+git clone https://github.com/PentesterES/WebSearch<br />
+git clone https://github.com/BlackArch/webshells<br />
+git clone http://github.com/kanaka/websockify<br />
+git clone https://github.com/xionsec/WebXploiter<br />
+git clone https://github.com/Hypsurus/weeman<br />
+git clone http://epinna.github.io/Weevely/<br />
+git clone https://github.com/xmendez/wfuzz<br />
+git clone https://github.com/B16f00t/whapa<br />
+git clone https://github.com/ncrocfer/whatportis<br />
+git clone https://github.com/WebBreacher/WhatsMyName<br />
+git clone https://github.com/Nitr4x/whichCDN<br />
+git clone https://github.com/Ekultek/whitewidow<br />
+git clone https://github.com/DanMcInerney/wifi-monitor<br />
+git clone https://github.com/P0cL4bs/WiFi-Pumpkin<br />
+git clone https://github.com/gentilkiwi/wifichannelmonitor<br />
+git clone https://github.com/oblique/wificurse<br />
+git clone https://github.com/DanMcInerney/wifijammer<br />
+git clone https://github.com/sophron/wifiphisher<br />
+git clone https://github.com/mehdilauters/wifiScanMap<br />
+git clone https://github.com/GDSSecurity/wifitap<br />
+git clone https://github.com/derv82/wifite<br />
+git clone https://github.com/jekyc/wig<br />
+git clone https://github.com/zombiesam/wikigen<br />
+git clone https://github.com/localh0t/wildpwn<br />
+git clone https://github.com/basil00/Divert<br />
+git clone https://github.com/GDSSecurity/Windows-Exploit-Suggester<br />
+git clone https://github.com/pentestmonkey/windows-privesc-check<br />
+git clone https://github.com/jbruchon/winregfs<br />
+git clone https://github.com/SYWorks/wireless-ids<br />
+git clone https://github.com/Crapworks/wolpertinger<br />
+git clone https://github.com/gbrindisi/wordpot<br />
+git clone https://github.com/rastating/wordpress-exploit-framework<br />
+git clone https://github.com/swisskyrepo/Wordpresscan<br />
+git clone https://github.com/SYWorks/wpa-bruteforcer<br />
+git clone https://github.com/dxa4481/WPA2-HalfHandshake-Crack<br />
+git clone https://github.com/dejanlevaja/wpbf<br />
+git clone https://github.com/zendoctor/wpbrute-rpc<br />
+git clone https://github.com/n00py/WPForce<br />
+git clone https://github.com/m4ll0k/WPSeku<br />
+git clone https://github.com/0x90/wpsik<br />
+git clone https://github.com/JamesJGoodwin/wreckuests<br />
+git clone https://github.com/nccgroup/wssip<br />
+git clone https://github.com/ctxis/wsuspect-proxy<br />
+git clone https://github.com/asciimoo/wuzz<br />
+git clone https://github.com/orf/xcat<br />
+git clone https://github.com/nccgroup/xcavator<br />
+git clone https://github.com/mandatoryprogrammer/xcname<br />
+git clone https://github.com/LionSec/xerosploit<br />
+git clone https://github.com/earthquake/xfltreat/<br />
+git clone https://github.com/hellman/xortool/<br />
+git clone https://github.com/mandatoryprogrammer/xpire-crossdomain-scanner<br />
+git clone https://github.com/CoderPirata/XPL-SEARCH<br />
+git clone https://github.com/DanMcInerney/xsscrapy<br />
+git clone https://github.com/mandatoryprogrammer/xssless<br />
+git clone https://github.com/faizann24/XssPy<br />
+git clone https://github.com/gwroblew/detectXSSlib<br />
+git clone https://github.com/gbrindisi/xsssniper<br />
+git clone https://github.com/1N3/XSSTracer<br />
+git clone https://github.com/UltimateHackers/XSStrike<br />
+git clone https://github.com/yehia-mamdouh/XSSYA<br />
+git clone https://github.com/3xp10it/bypass_waf<br />
+git clone https://github.com/enjoiz/XXEinjector<br />
+git clone https://github.com/Plasticoo/YAAF<br />
+git clone https://github.com/VirusTotal/yara<br />
+git clone https://github.com/0xsauby/yasuo<br />
+git clone https://github.com/adamcaudill/yawast<br />
+git clone https://github.com/frohoff/ysoserial<br />
+git clone https://github.com/urbanesec/ZackAttack/<br />
+git clone https://github.com/Ekultek/Zeus-Scanner<br />
+git clone https://github.com/zmap/zgrab<br />
+git clone https://github.com/pasahitz/zirikatu<br />
+git clone https://github.com/cyrus-and/zizzania<br />
 git clone https://github.com/BlackArch
