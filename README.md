@@ -1,4 +1,4 @@
-1000 blackhat tools Collect From Github<br />
+
 git clone https://github.com/glv2/bruteforce-wallet<br />
 git clone https://github.com/x90skysn3k/brutespray<br />
 git clone https://github.com/1N3//BruteXSS<br />
@@ -919,4 +919,3 @@ git clone https://github.com/Ekultek/Zeus-Scanner<br />
 git clone https://github.com/zmap/zgrab<br />
 git clone https://github.com/pasahitz/zirikatu<br />
 git clone https://github.com/cyrus-and/zizzania<br />
-git clone https://github.com/BlackArch
